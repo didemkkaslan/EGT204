@@ -1,0 +1,266 @@
+---
+title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
+subtitle: " <br> `r emo::ji('graph')` Araştırmaların Sınıflandırılması"
+author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
+date: "2021-2022 GUZ-Hafta 6 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["xaringan-themer.css", "slides-style.css"]
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+```{r set-theme, include=FALSE}
+library(emoji)
+library(xaringanthemer)
+library(dplyr)
+
+style_duo_accent(
+  primary_color      = "#0F4C81", # pantone classic blue
+  secondary_color    = "#B6CADA", # pantone baby blue
+  header_font_google = google_font("Raleway"),
+  text_font_google   = google_font("Raleway", "300", "300i"),
+  code_font_google   = google_font("Source Code Pro"),
+  text_font_size     = "30px"
+)
+```
+
+---
+## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
+
+.hand[İçerik...]
+
+-   Araştırma Nedir?
+-   Temel ve Uygulamalı Araştırmaları
+-   Laboratuar ve Saha Araştırmaları
+-   Anlık ve Boylamsal Araştırmaları
+-   Kavramsal ve Ampirik Araştırmalar
+-   Deneysel ve Deneysel Olmayan Araştırmalar
+-   Nicel ve Nitel Araştırmalar
+  -   Nicel Araştırmalar
+      -   Tarama Araştırması
+      -   Deneysel Araştırma
+      -   Meta Analiz 
+  -   Nitel Araşatırma Desenleri
+      -   İçerik Analizi
+      -   Eylem Araştırması
+      -   Durum Araştırması
+-   Karma Yöntem Araştırmaları
+
+---
+## Bilimsel Araştırmaların Sınıflanması
+
+- Yapıldıkları çevreye göre, labrotuvar ve saha (alan) araştırmaları; 
+- Düzeylerine göre kuramsal ve uygulamalı araştırmalar; 
+- Yönteme göre tarihi, betimsel ve deneysel araştırmalar; 
+- Kontrol özelliğine göre survey ve deneysel araştırmalar.
+- Varsayımları doğrulama ya da mevcut durumu belirleme yaklaşımlarına göre nicel-nitel araştırmalar olarak gruplandırılabilir
+
+---
+## Bilimsel Araştırmaların Sınıflanması
+- Farklı sınıflamalar bulunmaktadır (Büyüköztürk, Çakmak, Akgün, Karadeniz, & Demirel, 2008; Karasar, 2003; Şekercioğlu, 2011/2015)
+
+- Uygulama/Düzey açısından Temel, Uygulamalı
+- Amaç açısından  Betimsel, İlişkisel, Açımlayıcı/Keşfedici
+- Kullanılan inceleme yöntemine/ verinin türüne göre  Nitel, Nicel
+
+
+
+---
+##  Nicel ve Nitel Araştırmalar
+
+Nicel araştırmalar değişkenler arasındaki ilişkileri kanıtlamaya çalışır ve bu tür ilişkilerin nedenlerini arar ve bazen açıklar.
+
+Nitel araştırmalar, durumları ve olayları katılımcıların bakış açılarından anlamaya çalışır. Katılımcıların doğrudan araştırmanın içinde yer alması söz konusudur.
+
+
+---
+##  Nicel ve Nitel Araştırmalar
+
+Tarama Araştırması
+Korelasyonel Araştırma
+Nedensel Karşılaştırma Araştırması
+Deneysel Araştırma
+Tek Denekli Araştırma
+Tasarım ve Geliştirme Araştırması
+Meta - Analiz
+
+---
+## Tarama Araştırması
+
+- **Belirli özelliklerin** belirlenmesini amaçlar,
+Anket, görüşme,
+Yüzde, frekans,
+
+EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türü nedir?
+
+---
+## Korelasyonel Araştırması
+
+- İki ya da daha fazla değişen arasındaki **ilişkinin** belirlenmesi amaçlar,
+- Araştırmacı ölçme araçlarını uygulamak dışında herhangi bir **müdahale ya da yönlendirme yapmaz,**
+
+- EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türü ile başarı puanları arasıda nasıl bir ilişki vardır
+
+
+---
+## Nedensel Karşılaştırma  Araştırması
+
+- İnsan grupları arasındaki **farklılıkların** nedenlerini ve sonuçlarını koşullar ve katılımcılar üzerinde herhangi bir müdahale olmaksızın belirlemeyi amaçlar, 
+
+- Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
+
+- EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?
+
+---
+## Deneysel Araştırma
+
+
+- Bilimsel yöntemler arasında **en kesin sonuçların** elde edildiği araştırma türüdür. 
+
+- **Karşılaştırılabilir** işlemler uygulanır ve bu işlemlerin etkileri incelenir. 
+
+EGT204-04 şubesindeki öğrencilerin yarısına geleneksel uygulama, diğer yarısına ise ters yüz öğrenme yöntemi uygulanırsa dönem sonundaki başarı puanları arasında anlamlı bir farklılık olur mu?
+
+---
+## Tek Denekli Araştırma
+
+- Tek bir bireyin ( az sayıda oluşan bir grubun) bir süre yoğun bir şekilde incelenmesini ve üzerinde çalışmasını içerir. 
+ 
+- Diğer bireylerden belirgin farklılıklara sahip bireyler üzerinde çalışılır. 
+
+---
+## Tasarım ve Geliştirme Araştırması
+
+- Eğitim bilimlerinde özellikle **eğitim teknolojisi** alanı,
+- Bilimsel sonuç ve önerilere dayalı olarak **yeni çözüm ve ürünlerin** gelişmesi,
+- Özellikle **proje** çalışmaları için önerilir,
+- Nitel, nicel ya da karma veri toplama yöntemleri
+
+
+---
+## Meta Analiz
+
+- **Belirli bir amaca/konuya** yönelik yapılan araştırmaları birlikte inceleyip bir **senteze** ulaşılması amaçlanır,
+
+
+---
+## Nitel Araştırmalar
+
+- Etnografik Araştırma
+- Tarihi Araştırma
+- Eylem Araştırması
+- Olgubilim Çalışmaları
+- Kuram Oluşturma Çalışmaları
+- Durum Çalışması
+- Anlatı Çalışması
+
+---
+## Etnografik Araştırma
+
+- **Doğrudan** gözlemlemek ve bu gözlemlere dayanarak betimleme yapmak,
+Gözlem, görüşme
+
+Eğitimde araştırma yöntemleri dersi ???
+
+---
+## Tarihi Araştırma
+
+- Geçmişte ne oldu?,
+- **Dönemin dokümanlarının** okunması ve o zamanlarda yaşamış **kişilerle görüşmeler** yapılması,
+Doğruluğun sağlanması önemli bir sorun
+
+---
+## Eylem Araştırması
+
+- Belirli bir durumun **koşullarını değiştirmeye** yarayacak bilgiyi elde etmek amaçlanır,
+
+- Deneklerin çalışmaya **aktif** bir şekilde katılmalarına önem verilir ve **katılımcılar/taraflar** olarak adlandırılırlar. 
+
+- Genellemelere en az önem veren araştırmadır. 
+
+---
+## Eylem Araştırması
+
+
+	Sınıfındaki öğrencilerin bilimsel süreç becerilerinin yeterli düzeyde gelişmediğini gözlemlemek isteyen bir öğretmenin bu soruna çözüm olarak kullanabileceği en uygun yöntemi bulması!!
+
+
+---
+## Olgubilim Çalışmaları
+
+- Olgulara odaklanılarak **yaşantıları** ve **anlamları** ortaya çıkarmayı amaçlar,
+
+- Olguyu yaşayan, onu dışa vurabilecek veya yansıtabilecek bireyler/gruplar,
+
+- **Kesin** ve **genellenebilir** sonuçlar elde edilemeyebilir,
+
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+Kız öğrencilerin düşük okullaşma oranı - Olgu
+	
+	Coğrafik bölge,
+	Sosyo-ekonomik durum,
+	Terk edilen sınıf düzeyi, 	
+	Başarı durumu 
+	
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+Kız öğrencilerin düşük okullaşma oranı - Olgu
+	
+- Başarılı öğrenciler neden okulu terk eder?
+- İlköğretim beşinci sınıftan sonra terk etme oranı 	neden artar?
+- Aile bu konuda ne düşünüyor?
+
+---
+## Kuram Oluşturma Çalışmaları
+
+
+- Sistematik olarak verilerin toplanması ve analiz edilmesi sonucu bir kuram geliştirme çalışmasıdır,
+
+- Süreçte toplanan veriler analiz edilir, ortaya çıkan kavramlar, olgular ve süreçler daha sonraki veri topplama aşamasına dahil edilir. 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+a. Bir olayı meydana getiren ayrıntıları tanımlamak ve görmek,
+b. Bir olaya ilişkin olası açıklamaları geliştirmek,
+c. Bir olayı değerlendirmek amacıyla kullanılır (Gall, Borg ve Gall, 1996; akt: Büyüközütrk vd. 2020). 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+Okul müdürünün, Okul Aile Birliğinin çalışmaları sırasında yaşadıkları sorunları tespit ederek bu birliğin çalışmalarının etkililiğini arttırmak istemesi. 
+
+---
+## Anlatı Çalışması
+
+- **Yaşanmış hikayeler** aracılığıyla insanarın bir konu ya da duruma ilişkin deneyimleri incelenir,
+
+- Otobiyografi, biyografi, 
+
+- Deneyimler **yazılı ya da sözlü** olarak **hikaye edilerek** toplanır.  
+
+---
+## Düzeylerine Göre Araştırma Türleri
+
+---
+## Yararlanılan Kaynak
+Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Ankara: Pegema Yayıncılık. 
+

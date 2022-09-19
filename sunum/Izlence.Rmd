@@ -1,0 +1,335 @@
+---
+title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
+subtitle: " <br> `r emo::ji('graph')` Dersi Tanıtma"
+author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
+date: "2021-2022 Bahar Pazartesi 13:00-14:50 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["xaringan-themer.css", "slides-style.css"]
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+---
+
+```{r child = "../setup.Rmd"}
+```
+
+```{r set-theme, include=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color      = "#0F4C81", # pantone classic blue
+  secondary_color    = "#B6CADA", # pantone baby blue
+  header_font_google = google_font("Raleway"),
+  text_font_google   = google_font("Raleway", "300", "300i"),
+  code_font_google   = google_font("Source Code Pro"),
+  text_font_size     = "30px"
+)
+```
+
+```{r, include=FALSE}
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ # tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%d/%m")
+ # tfri <- format(tfri, format="%d/%m")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Hafta ",zadv,sep='',", ", tmon)
+ return(tmp)
+}
+
+library(lubridate)
+options(scipen=999)
+library(tidyverse)
+library(stevemisc)
+mon <- ymd(20220207)
+```
+
+# Eğitmen .huge[`r emo::ji("woman_teacher")`]
+
+.huge[`r emo::ji("link")`] [Doç. Dr. Kübra Atalay Kabasakal](https://avesis.hacettepe.edu.tr/katalay)
+
+.huge[`r emo::ji("link")`] **Sinif:** Zoom Pazartesi 13:00-14:50
+
+**Ofis saatleri:** Cuma 10:00-12:00    
+ 
+**Ofis:** "Eğitim Bilimleri Enstitüsü"                              
+---
+# EGT204 IZLENCE.huge[`r emo::ji("stats")`]
+
+.hand[İçerik...]
+
+- Dersin Amacı
+- Ders Hedefleri
+- Ders İşlenişi
+- Notlandırma
+- Derse Katılım
+- İletişim
+- Okuma Listesi
+
+---
+# Ders Amacı
+
+Öğrencilere 
+- eğitimde araştırma yöntemlerini tanıtmak,
+- araştırma sürecinde problem belirlemek, 
+- probleme uygun araştırma modelini seçmek, 
+- evreni ve örneklemi belirlemek, 
+- veri toplamak ve veri analizi, 
+- analiz sonuçlarını yorumlamak, 
+- araştırma sonuçlarını rapor etmek,
+- araştırma ilkelerine ve etiğine uyma konularında bilgi ve beceri sahibi olmalarını sağlamaktır.
+
+---
+# Ders Hedefleri
+
+Bu dersi başarıyla tamamlayan öğretmen adayları ders bitiminde aşağıdaki hedeflenen kazanımları edinmiş olur:
+
+**1.**  Araştırma yöntemleriyle ilgili **temel kavramları** ve **ilkeleri** tanımlar.
+
+**2.**  Araştırma problemlerini belirleyerek probleme uygun **araştırma modelini seçer**, **evreni** ve **örneklemi** belirler.
+
+**3.**  Araştırma modeline uygun **veri toplama araçları** ile veri toplar, **veriyi analiz eder**, analiz sonuçlarını yorumlar.
+
+**4.**  Araştırma ilkelerine ve etiğine uygun araştırma raporu hazırlar.
+
+---
+# Ders İşlenişi
+
+- Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir.
+
+- Belirtilen başlık altında her haftanın ilgili ders dokumanına bağlantı moodleda yer almaktadır.
+
+---
+# Notlandırma
+
+-   **25% Ara Sınav** moodle üzerinden ders saatinde gerçekleştirilecektir.
+    
+-   **25% Derse Katılım ve Ödevler** derslere katılımınız zoom kayıtlarından alınabilmektedir. Ayrıca derste online olan ancak iletişim kurulamayan kişiler derste yok sayılacaktır.
+    
+-    Bu derste sizden **5** ödev yapmanız beklenmektedir. Ödev başlıkları "Ders Planı" icinde ilgili haftada yer almaktadır. Ödevler ve **ders içinde uygulanacak mini sınavlar** genel başarı puanının **%25'ını** oluşturmaktadır. Ödev başlıklarında ödev ağırlıklarını görebilirsiniz. Ödevlerinizi moodle ilgili haftada bulacaksınız.
+
+-   **50% Genel Sınav** tarihi ve Uygulanma şekli daha sonra duyurulacaktır.
+
+
+---
+# Derse Katılım
+
+- Hacettepe Üniversitesi Ön Lisans, Lisans Eğitim-Öğretim Yönetmeliğinde geçtiği gibi derslere devam zorunludur. 
+
+- Mazeretler de dahil olmak üzere kuramsal (teorik) saatlerin **%30'undan** fazlasına katılmayan öğrenci o dersin genel ve bütünleme sınavına alınmaz.
+
+---
+## E-mail ile İletişim
+
+- Bu dökumanda yazmayan her türlü konuda bana `r emo::ji('link')` [katalay@hacettepe.edu.tr] ile ulaşabilirsiniz.
+
+- Tüm sınıfı ilgilendiren konular i
+çin ise ilk derste aranızdan seçtiğimiz gönüllü öğrenci ile iletişim kurulacaktır.
+
+
+---
+## Okuma Listesi
+
+-   Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Pegema Yayıncılık.
+
+-   Ocak, G. (2019). Eğitimde Bilimsel Araştırma Yöntemleri. Pegema Yayıncılık.
+
+-   Çetin, B., İlhan, M. ve Şahin, M. G. (2021). Eğitimde Araştırma Yöntemleri: Temel Kavramlar, İlkeler ve Süreçler, Pegem Akademi.
+
+-   Frankel, J. R.; Wallen, N. E. & Hyun, H. H. (2012). How to Design and Evaluate Research in Education (8th Edition). McGraw Hill International.
+
+-   Creswell, J. W. (2012) Educational Research Planning, Conducting and Evaluating Quantitative and Qualitative Research (4th Edition). Pearson Education.
+
+---
+## Ders Planı
+## `r advdate(mon, 1)`: Dersin ve Kaynakların Tanınımı
+
+```{r echo=FALSE, fig.align='center',out.width="75%"}
+knitr::include_graphics("img/hosgeldiniz.jpg")
+```
+
+`r emo::ji('link')` [Lutfen anketi doldurunuz](https://forms.gle/HvD2eeSmiJd4Qhhp8)<br>
+---
+## `r advdate(mon, 2)`: Ölçmede Temel Kavramlar
+
+<!-- Ders öncesi mentimeter -->
+-   Ölçme ve Ölçme Türleri Nedir?
+-   Ölçüm Kuralı Nedir?
+-   Ölçüm Nedir?
+-   Ölçek Nedir?
+-   Ölçek Türleri Nelerdir?
+-   Ölçmede Hata
+-   Ölçme Aracının Sahip Olması Gereken Özellikler
+-   Değişken
+-   Korelasyon
+-   Güvenirlik ve Geçerlik
+
+---
+## `r advdate(mon, 3)`: Bilimsel Araştırmaya Giriş
+
+Ders öncesi Hafta 2 konularını kapsayan bir mini sınav uygulaması yapılacaktır.
+
+-   Bilgi Nedir? 
+-   Bilgi Edinme Yolları Nelerdir?
+-   Bilim Nedir?
+-   Bilimin Temel İşlevleri
+-   Bilimin Başlıca Özellikleri
+-   Bilimsel Yöntem
+-   Bilimsel Araştırmalarda Bulunması Gerekenler
+
+---
+## `r advdate(mon, 4)`: Probleminin Tanımlanması I
+
+Ders öncesi Hafta 3 konularını kapsayan uygulama yapılacaktır.
+
+-   Araştırma Problemin Tanımlanması
+-   İyi bir araştırma probeliminin sahip olması gereken özellikler
+-   Problem ve alt problemler
+-   Literatur Taraması
+-   **ODEV-I (+) Problem Durumu Belirleme**
+
+---
+## `r advdate(mon, 5)`: Probleminin Tanımlanması II
+
+-   Değişken nedir?
+-   Değişken Sınıflaması
+-   Hipotez Nedir?
+-   Hipotez Türleri
+-   Araştırma Amacı ve Önemi
+-   Sayıltı ve Sınırlılık
+-   Tanımlar, Kısaltmalar
+
+
+---
+
+## `r advdate(mon, 6)`:  Araştırmaların Sınıflandırılması
+
+Ders öncesi Hafta 4 ve Hafta 5 konularını kapsayan bir mini sinav uygulaması yapılacaktır.
+
+-   Araştırma Nedir?
+-   Temel ve Uygulamalı Araştırmaları
+-   Laboratuar ve Saha Araştırmaları
+-   Anlık ve Boylamsal Araştırmaları
+-   Kavramsal ve Ampirik Araştırmalar
+-   Deneysel ve Deneysel Olmayan Araştırmalar
+-   Nicel ve Nitel Araştırmalar
+  -   Nicel Araştırmalar
+  -   Nitel Araşatırma Desenleri
+  -   Karma Yöntem Araştırmaları
+
+---
+## `r advdate(mon, 7)`: Ara Sınav
+
+```{r echo=FALSE, fig.align='center',out.width="75%"}
+knitr::include_graphics("img/SINAV.jpg")
+```
+
+---
+## `r advdate(mon, 8)`:Örnekleme Yöntemleri
+
+-   Evren - Örneklem Tanımı Örnekleme Nedir?
+-   Örnekleme Yöntemleri
+-   Örnekleme Aşamaları
+-   Örneklem Büyüklüğü
+-   Örnekleme Hatası
+-   **ODEV-II (+) Örnekleme**
+
+---
+## `r advdate(mon, 9)`: Nicel Veri Toplanması ve Analizi
+-   Veri Nedir?
+-   Nicel Veri Toplama Araçları
+    -   Anketler
+    -   Ölçek
+    -   Envanter
+    -   Test
+-   Çevirim için veri toplama araçları
+-   **ODEV-III (++) Çevirim içi Anket Hazırlama**
+
+---
+## `r advdate(mon, 10)`: Nicel Veri Analizi
+
+-   Parametre ve İstatistik Nedir?
+-   Nicel Veri Özetleme Teknikleri
+-   Merkezi Eğilim ve Dağılım Ölçüleri
+-   Korelasyon Frekans Tablosu ve Grafikler
+-   **ODEV-V (+) Uygulanmış Bir Anket Analizi**
+
+---
+## `r advdate(mon, 11)`: Nitel Veri Toplanması ve Analizi
+-   Nitel Araştırmaların Tanımı
+-   Veri Toplama Araçları
+    -   Görüşme
+    -   Gözlem
+    -   Dokümanlar
+-  Nitel Veri Analizi
+    -   İçerik Analizi
+        -   Betimsel Analizi
+-  Nitel Araştırmalarda Geçerlik Güvenirlik
+
+---
+## `r advdate(mon, 12)`: Araştırmalarda İç ve Dış Geçerlik
+-   İç geçerlik
+    - Genel Tarama Araştırmalarında İç Geçerlik
+    - Nedensel Karşılaştırma Araştırmalarında İç Geçerlik
+    - Korelasyonel Araştırmalarda İç Geçerlik
+    - Deneysel Araştırmalarda İç Geçerlik
+    - Nitel Araştırmalarda İç Geçerlik
+-   Dış Geçerlik
+    - Dış Geçerlik Tehditleri
+- İç Geçerlik Dış Geçerlik Dengesi
+
+---
+## `r advdate(mon, 13)`: Kaynak Yazımı
+-   Doğrudan ve Dolaylı Alıntı
+-   Birincil ve İkincil Alıntı
+-   Farklı Kaynak Gösterim Biçimleri
+-   APA7'ye göre kaynak Gösterimi
+-   Kaynakçada Kaynak Gösterimi
+-   **ODEV-V**  Kaynak Yazımı
+-   **Proje** (++++) Nicel Araştırma İnceleme 
+
+---
+## `r advdate(mon, 14)`: Bilimsel Araştırmalard Etik ve Araştırmaların Raporlaştırılması
+-   Etik Nedir?
+-   Bilim Etiğinin Temel İlkeleri
+-   Rapor hazırlamada dikkat edilecek hususlar
+-   Araştırma türlerine göre rapor örnekleri
+-   Araştırma raporu bölümleri
+
+---
+## `r advdate(mon, 15)`: Genel Sınav
+-   Tarihi ve Uygulanma şekli daha sonra duyurulacaktır.
+
+```{r echo=FALSE, fig.align='center',out.width="75%"}
+knitr::include_graphics("img/SINAV.jpg")
+```
+---
+
+.hand-large[teşekkürler !]
+
+--
+
+<br>
+.large[`r emo::ji('happy')`]
+
+
+<!-- Hafta 3 mini sinav -->
+<!-- Hafta 4 mini sinav -->
+<!-- Hafta 4-5 mini sınav -->
+
+<!-- Ödev I problem durumu -->
+<!-- Ödev II örnekleme -->
+<!-- ODEV-III  Çevirim içi Anket Hazırlama -->
+<!-- ODEV-IV   Uygulanmış Bir Anket Analizi -->
+<!-- ODEV-V   Kaynak Yazımı -->
+
+<!-- Proje -->
+
