@@ -1,7 +1,7 @@
 ---
 title: "EGT204: EĞİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: "Ders Iceriği"
-date: "18/01/2022"
+date: "Güz - 2022"
 output: 
   html_document:
     toc: true
@@ -16,16 +16,15 @@ output:
 
 ### Sunumlar
 
-1. [Dersin Tanıtımı](sunum/01.html)  
-2. [Ölçmede Temel Kavramlar](sunum/02.html)
-3. [Bilimsel Araştırmaya Giriş](sunum/03.html) 
-4. [Probleminin Tanımlanması I](sunum/04.html) 
-5. [Problemin Tanımlanması II](sunum/05.html) 
-6. [Araştırmaların Sınıflandırılması](sunum/06.html) 
-8. [Örneklem Seçimi ve Örnekleme Yöntemi](sunum/08.html) 
-9. [Nicel Verilerin Toplanması ve Analizi](sunum/09.html) 
-10. [Nitel Verilerin Toplanması ve Analizi](sunum/10.html) 
-11. [Araştırmalarda İç Geçerlik ve Dış Geçerlik](sunum/11.html) 
-12. [Kaynak Yazımı](sunum/12.html) 
-13. [Bilimsel Araştırmalarda Etik](sunum/13.html) 
-14. [Araştırmaların Raporlaştırılması](sunum/14.html) 
+1. [Ölçmede Temel Kavramlar](sunum/02.html)
+2. [Bilimsel Araştırmaya Giriş](sunum/03.html) 
+3. [Probleminin Tanımlanması I](sunum/04.html) 
+4. [Problemin Tanımlanması II](sunum/05.html) 
+5. [Araştırmaların Sınıflandırılması](sunum/06.html) 
+6. [Örneklem Seçimi ve Örnekleme Yöntemi](sunum/08.html) 
+7. [Nicel Verilerin Toplanması ve Analizi](sunum/09.html) 
+8. [Nitel Verilerin Toplanması ve Analizi](sunum/10.html) 
+9. [Araştırmalarda İç Geçerlik ve Dış Geçerlik](sunum/11.html) 
+10. [Kaynak Yazımı](sunum/12.html) 
+11. [Bilimsel Araştırmalarda Etik](sunum/13.html) 
+12. [Araştırmaların Raporlaştırılması](sunum/14.html) 
