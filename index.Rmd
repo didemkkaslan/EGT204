@@ -4,19 +4,217 @@ subtitle: "Ders Iceriği"
 date: "Güz - 2022"
 output: 
   html_document:
-    toc: true
-    toc_depth: 3
-    toc_float: 
-      collapsed: false
-      smooth_scroll: false
     theme:  default
     highlight: null
     css: styles.css
 ---
+```{r include=FALSE}
+options(scipen=999)
+library(tidyverse)
+library(stevemisc)
+#library(ggpmisc)
+#library(anonymizer)
+# library(ggcal)
+#library(stringr)
+#library(kfigr)
+#library(broom)
+library(lubridate)
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ # tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%d/%m")
+ # tfri <- format(tfri, format="%d/%m")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Hafta ",zadv,sep='',", ", tmon)
+ return(tmp)
+}
+mon <- ymd(20221003)
 
-### Sunumlar
+```
 
-1. [Ölçmede Temel Kavramlar](sunum/02.html)
+------------------------------------------------------------------------
+
+|                                        |                                |
+|----------------------------------------|--------------------------------|
+| **email:** kkatalay\@gmail.com         | **Sinif:** B10 302             |
+| **Ofis saatleri:** Cuma 10:00-12:00    | **Saat:**  11:00-13:00         |
+| **Ofis:** "Eğitim Bilimleri Enstitüsü" |                                |
+
+
+# Ders Amacı
+
+Öğrencilere eğitimde araştırma yöntemlerini tanıtmak, araştırma sürecinde problem belirlemek, probleme uygun araştırma modelini seçmek, evreni ve örneklemi belirlemek, veri toplamak ve veri analizi, analiz sonuçlarını yorumlamak, araştırma sonuçlarını rapor etmek ve araştırma ilkelerine ve etiğine uyma konularında bilgi ve beceri sahibi olmalarını sağlamaktır.
+
+# Ders Hedefleri
+
+Bu dersi başarıyla tamamlayan öğretmen adayları ders bitiminde aşağıdaki hedeflenen kazanımları edinmiş olur:
+
+1.  Araştırma yöntemleriyle ilgili temel kavramları ve ilkeleri tanımlar.
+
+2.  Araştırma problemlerini belirleyerek probleme uygun araştırma modelini seçer, evreni ve örneklemi belirler.
+
+3.  Araştırma modeline uygun veri toplama araçları ile veri toplar, veriyi analiz eder, analiz sonuçlarını yorumlar.
+
+4.  Araştırma ilkelerine ve etiğine uygun araştırma raporu hazırlar.
+
+# Ders İşlenişi
+
+Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Belirtilen başlık altında her haftanın ilgili ders dokumanına bağlantı sunulmuştur.
+
+# Notlandırma
+
+-   **25% Ara Sınav**
+
+-   **25% Derse Katılım ve Ödevler**
+
+    Derslere katılımınız zoom kayıtlarından alınabilmektedir. Ayrıca derste online olan ancak iletisim kurulamayan kisiler derste yok sayılacaktır.
+    
+    Bu derste sizden 6 ödev yapmanız beklenmektedir. Ödev başlıkları "Ders Planı" icinde ilgili haftada yer almaktadır. Ödevler, genel başarı puanının %40'ını oluşturmaktadır. Ödev başlıklarında ödev ağırlıklarını görebilirsiniz. Ödevlerinizi moodle ilgili haftada bulacaksınız.
+
+-   **50% Genel Sınav**
+
+
+## Okuma Listesi
+
+-   Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Pegema Yayıncılık.
+
+-   Ocak, G. (2019). Eğitimde Bilimsel Araştırma Yöntemleri. Pegema Yayıncılık.
+
+-   Çetin, B., İlhan, M. ve Şahin, M. G. (2021). Eğitimde Araştırma Yöntemleri: Temel Kavramlar, İlkeler ve Süreçler, Pegem Akademi.
+
+-   Frankel, J. R.; Wallen, N. E. & Hyun, H. H. (2012). How to Design and Evaluate Research in Education (8th Edition). McGraw Hill International.
+
+-   Creswell, J. W. (2012) Educational Research Planning, Conducting and Evaluating Quantitative and Qualitative Research (4th Edition). Pearson Education.
+
+```{=tex}
+\clearpage
+\newpage
+```
+## Ders Planı
+
+## `r advdate(mon, 1)`:[Ölçmede Temel Kavramlar](sunum/02.html)
+-   Ölçme Nedir?
+-   Ölçüm Nedir?
+-   Ölçek Nedir?
+-   Ölçek Türleri
+-   Ölçmede Hata
+-   Ölçme Aracının Sahip Olması Gereken Özellikler
+-   Korelasyon
+
+## Dersin Tanıtımı, Araştırma yöntemleriyle ilgili temel kavramlar ve ilkeler
+
+-   Bilgi Nedir? Bilgi Edinme Yolları Nelerdir?
+-   Bilim Nedir?
+-   Bilimin Temel İşlevleri
+-   Bilimin Başlıca Özellikleri
+
+## `r advdate(mon, 2)`: Araştırma Türleri - Araştırma Probleminin Tanımlanması
+
+-   Araştırma Nedir?
+-   Nicel ve Nitel Araştırma
+-   Araştırma Sürecinin Aşamaları
+
+## `r advdate(mon, 3)`: Probleminin Tanımlanması I
+
+-   Araştırma Problemin Tanımlanması
+-   İyi bir araştırma probeliminin sahip olması gereken özellikler
+-   Problem ve alt problemler
+-   Literatur Taraması
+-   **ODEV-I (+) Problem Durumu Belirleme**
+
+## `r advdate(mon, 4)`: Probleminin Tanımlanması II
+
+-   Değişken nedir?
+
+-   Değişken Sınıflaması
+
+-   Hipotez Nedir?
+
+-   Hipotez Türleri
+
+-   Araştırma Amacı ve Önemi
+
+-   Sayıltı ve Sınırlılık
+
+-   Tanımlar, Kısaltmalar
+
+## `r advdate(mon, 5)`: Örnekleme Yöntemleri
+
+Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması yapılacaktır.
+
+-   Evren - Örneklem Tanımı Örnekleme Nedir?
+-   Örnekleme Yöntemleri
+-   Örnekleme Aşamaları
+-   Örneklem Büyüklüğü
+-   Örnekleme Hatası
+-   **ODEV-III (+) Örnekleme**
+
+## `r advdate(mon, 6)`: Veri Toplama Araçları I
+
+## `r advdate(mon, 7)`: Veri Toplama Araçları II
+
+-   Anketler
+-   Gözlem formları
+-   Görüşme formları
+-   Çevirim için veri toplama araçları
+-   **ODEV-IV (++) Çevirim içi Anket Hazırlama**
+
+## `r advdate(mon, 8)`: Ara Sınav
+
+Sınav haftasında bağlantı eklenecektir.
+
+## `r advdate(mon, 9)`: Verilerin Analizi
+
+-   Parametre Nedir?
+-   İstatistik Nedir?
+-   Nitel Veriler
+-   Nicel Veriler
+-   Nicel Veri Özetleme Teknikleri
+-   Merkezi Eğilim ve Dağılım Ölçüleri
+-   Korelasyon Frekans Tablosu ve Grafikler
+-   **ODEV-V (+) Uygulanmış Bir Anket Analizi**
+
+## `r advdate(mon, 10)`: Nicel Araştırmalar I
+
+-   İç geçerlik - Dış Geçerlik
+-   Tarama Araştırması
+-   Korelasyon Araştırması
+-   Nedensel Araştırma
+
+## `r advdate(mon, 11)`: Nicel Araştırmalar II
+
+-   Deneysel Araştırmalar ve Türleri
+
+-   **ODEV-VI (++++) Nicel Araştırma İnceleme Ödevi**
+
+## `r advdate(mon, 12)`: Nitel Araştırmalar I
+
+-   Nicel ve Nitel Araştırma Farkları
+-   Nitel Araşatırma Aşamaları
+-   Karma Desenler
+-   İçerik Analizi
+
+## `r advdate(mon, 13)`: Nitel Araştırmalar II
+
+-   Eylem Araştırması
+-   Durum Araştırması
+
+## `r advdate(mon, 14)`: Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği
+
+-   Rapor hazırlamada dikkat edilecek hususlar
+-   Araştırma türlerine göre rapor örnekleri
+-   Araştırma raporu bölümleri
+-   Etik Nedir?
+-   Bilim Etiğinin Temel İlkeleri
+
+## `r advdate(mon, 15)`: Genel Sınav
+
+
+
+
+
+
+
 2. [Bilimsel Araştırmaya Giriş](sunum/03.html) 
 3. [Probleminin Tanımlanması I](sunum/04.html) 
 4. [Problemin Tanımlanması II](sunum/05.html) 
