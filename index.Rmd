@@ -2,8 +2,11 @@
 title: "EGT204: EĞİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: "Ders Iceriği"
 date: "Güz - 2022"
-output: 
+output:
   html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
     theme:  default
     highlight: null
     css: styles.css
@@ -74,7 +77,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **50% Genel Sınav**
 
 
-## Okuma Listesi
+# Okuma Listesi
 
 -   Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Pegema Yayıncılık.
 
@@ -90,7 +93,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 \clearpage
 \newpage
 ```
-## Ders Planı
+# Ders Planı
 
 ## `r advdate(mon, 2)`:[Ölçmede Temel Kavramlar](sunum/02.html)
 -   Ölçme Nedir?
@@ -103,7 +106,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **ODEV-I (+) Makale Okuma**
 
 
-## `r advdate(mon, 3)`:[Bilimsel Araşatırma Temel Kavramlar](sunum/02.html)
+## `r advdate(mon, 3)`:[Bilimsel Araştırma Temel Kavramlar](sunum/02.html)
 
 -   Bilgi Nedir? Bilgi Edinme Yolları Nelerdir?
 -   Bilim Nedir?
