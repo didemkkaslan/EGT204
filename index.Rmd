@@ -92,7 +92,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 ```
 ## Ders Planı
 
-## `r advdate(mon, 1)`:[Ölçmede Temel Kavramlar](sunum/02.html)
+## `r advdate(mon, 2)`:[Ölçmede Temel Kavramlar](sunum/02.html)
 -   Ölçme Nedir?
 -   Ölçüm Nedir?
 -   Ölçek Nedir?
@@ -100,21 +100,23 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Ölçmede Hata
 -   Ölçme Aracının Sahip Olması Gereken Özellikler
 -   Korelasyon
+-   **ODEV-I (+) Makale Okuma**
 
-## Dersin Tanıtımı, Araştırma yöntemleriyle ilgili temel kavramlar ve ilkeler
+
+## `r advdate(mon, 3)`:[Bilimsel Araşatırma Temel Kavramlar](sunum/02.html)
 
 -   Bilgi Nedir? Bilgi Edinme Yolları Nelerdir?
 -   Bilim Nedir?
 -   Bilimin Temel İşlevleri
 -   Bilimin Başlıca Özellikleri
 
-## `r advdate(mon, 2)`: Araştırma Türleri - Araştırma Probleminin Tanımlanması
+## `r advdate(mon, 3)`: Araştırma Türleri - Araştırma Probleminin Tanımlanması
 
 -   Araştırma Nedir?
 -   Nicel ve Nitel Araştırma
 -   Araştırma Sürecinin Aşamaları
 
-## `r advdate(mon, 3)`: Probleminin Tanımlanması I
+## `r advdate(mon, 4)`: Probleminin Tanımlanması I
 
 -   Araştırma Problemin Tanımlanması
 -   İyi bir araştırma probeliminin sahip olması gereken özellikler
@@ -122,7 +124,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Literatur Taraması
 -   **ODEV-I (+) Problem Durumu Belirleme**
 
-## `r advdate(mon, 4)`: Probleminin Tanımlanması II
+## `r advdate(mon, 5)`: Probleminin Tanımlanması II
 
 -   Değişken nedir?
 
@@ -138,7 +140,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 
 -   Tanımlar, Kısaltmalar
 
-## `r advdate(mon, 5)`: Örnekleme Yöntemleri
+## `r advdate(mon, 6)`: Örnekleme Yöntemleri
 
 Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması yapılacaktır.
 
@@ -149,9 +151,9 @@ Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması
 -   Örnekleme Hatası
 -   **ODEV-III (+) Örnekleme**
 
-## `r advdate(mon, 6)`: Veri Toplama Araçları I
+## `r advdate(mon, 7)`: Veri Toplama Araçları I
 
-## `r advdate(mon, 7)`: Veri Toplama Araçları II
+## `r advdate(mon, 8)`: Veri Toplama Araçları II
 
 -   Anketler
 -   Gözlem formları
@@ -159,11 +161,10 @@ Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması
 -   Çevirim için veri toplama araçları
 -   **ODEV-IV (++) Çevirim içi Anket Hazırlama**
 
-## `r advdate(mon, 8)`: Ara Sınav
+## `r advdate(mon, 9)`: Ara Sınav
 
-Sınav haftasında bağlantı eklenecektir.
 
-## `r advdate(mon, 9)`: Verilerin Analizi
+## `r advdate(mon, 10)`: Verilerin Analizi
 
 -   Parametre Nedir?
 -   İstatistik Nedir?
@@ -174,32 +175,32 @@ Sınav haftasında bağlantı eklenecektir.
 -   Korelasyon Frekans Tablosu ve Grafikler
 -   **ODEV-V (+) Uygulanmış Bir Anket Analizi**
 
-## `r advdate(mon, 10)`: Nicel Araştırmalar I
+## `r advdate(mon, 11)`: Nicel Araştırmalar I
 
 -   İç geçerlik - Dış Geçerlik
 -   Tarama Araştırması
 -   Korelasyon Araştırması
 -   Nedensel Araştırma
 
-## `r advdate(mon, 11)`: Nicel Araştırmalar II
+## `r advdate(mon, 12)`: Nicel Araştırmalar II
 
 -   Deneysel Araştırmalar ve Türleri
 
 -   **ODEV-VI (++++) Nicel Araştırma İnceleme Ödevi**
 
-## `r advdate(mon, 12)`: Nitel Araştırmalar I
+## `r advdate(mon, 13)`: Nitel Araştırmalar I
 
 -   Nicel ve Nitel Araştırma Farkları
 -   Nitel Araşatırma Aşamaları
 -   Karma Desenler
 -   İçerik Analizi
 
-## `r advdate(mon, 13)`: Nitel Araştırmalar II
+## `r advdate(mon, 14)`: Nitel Araştırmalar II
 
 -   Eylem Araştırması
 -   Durum Araştırması
 
-## `r advdate(mon, 14)`: Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği
+## `r advdate(mon, 15)`: Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği
 
 -   Rapor hazırlamada dikkat edilecek hususlar
 -   Araştırma türlerine göre rapor örnekleri
