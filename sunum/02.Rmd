@@ -828,9 +828,8 @@ koryuksekdeger <- round(cor(mtcars$disp, mtcars$dispnew ), 3)
 
 ---
 ## Kahoot
-https://kahoot.it/challenge/0693230?challenge-id=6ed0be96-7ba3-4fb3-934d-6318106438e9_1665475069370
 
-Game PIN: 0693230
+https://kahoot.it?pin=2638016&refer_method=link
 
 ---
 ## Ders sonu
