@@ -163,7 +163,7 @@ mon <- ymd(20220207)
 ## Bilim Nedir?
 
 ```{r echo=FALSE, fig.align='center',out.width="75%"}
-knitr::include_graphics("img/Bilim.PNG")
+knitr::include_graphics("Bilim.PNG")
 ```
 
 ---
@@ -180,7 +180,7 @@ süreçlerinin sentezidir.
 ## Bilimsel Yöntem
 
 ```{r echo=FALSE, fig.align='center',out.width="50%"}
-knitr::include_graphics("img/hipotez.PNG")
+knitr::include_graphics("hipotez.PNG")
 ```
 (Şimşek,2019)
 
@@ -188,7 +188,7 @@ knitr::include_graphics("img/hipotez.PNG")
 ## Bilimsel Yöntem
 
 ```{r echo=FALSE, fig.align='center',out.width="75%"}
-knitr::include_graphics("img/bilimselyontem.PNG")
+knitr::include_graphics("bilimselyontem.PNG")
 ```
 
 Karasar, 2009’dan Şimşek (2019) tarafından uyarlanmıştır. 
@@ -234,7 +234,7 @@ Bu aşamada, geliştirilen kurama göre, belirli koşullarda hangi durumlarla ka
 ## BİLİMİN TEMEL İŞLEVLERİ	
 
 ```{r echo=FALSE, fig.align='center',out.width="75%"}
-knitr::include_graphics("img/bilimislev.PNG")
+knitr::include_graphics("bilimislev.PNG")
 ```
 
 ---
