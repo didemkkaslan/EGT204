@@ -113,13 +113,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Bilimin Temel İşlevleri
 -   Bilimin Başlıca Özellikleri
 
-## `r advdate(mon, 3)`: Araştırma Türleri - Araştırma Probleminin Tanımlanması
-
--   Araştırma Nedir?
--   Nicel ve Nitel Araştırma
--   Araştırma Sürecinin Aşamaları
-
-## `r advdate(mon, 4)`: Probleminin Tanımlanması I
+## `r advdate(mon, 3)`: Probleminin Tanımlanması I (sunum/04.html)
 
 -   Araştırma Problemin Tanımlanması
 -   İyi bir araştırma probeliminin sahip olması gereken özellikler

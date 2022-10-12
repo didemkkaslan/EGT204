@@ -1,5 +1,5 @@
 ---
-title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
+title: " EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Probleminin Tanımlanması I"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
 date: "2021-2022 GUZ-Hafta 4 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
