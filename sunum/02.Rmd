@@ -468,21 +468,133 @@ hataturleri
 --
   - Kararlılık
 
----
-##   Korelasyon
-
-```{r echo=FALSE, fig.align='center',out.width="75%"}
-knitr::include_graphics("img/Korelasyon.PNG")
-```
 
 ---
-##   Korelasyon
 
-```{r echo=FALSE, fig.align='center',out.width="75%"}
-knitr::include_graphics("img/Korelasyon1.PNG")
+.center[
+## Korelasyon
+
+]
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kor0 <- ggplot(mtcars, aes(x=drat, y=qsec)) +
+  geom_point() +
+  labs( x="Kahvaltıda tüketilen ekmek miktarı", y = "Test Puanı")+
+  theme_bw()
+kor0
 ```
+]
 
 --
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kor0 + geom_smooth(method=lm, se=FALSE)
+```
+]
+
+--
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kor0+ geom_smooth(method=lm, se=FALSE) +
+  stat_ellipse()
+kor0deger <- round(cor(mtcars$drat, mtcars$qsec), 3)
+```
+]
+
+--
+
+.alert[Kahvaltıda tüketilen ekmek miktarı ve test puanı arasındaki korelasyon `r kor0deger`]
+
+
+---
+.center[
+## Korelasyon
+
+]
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+mtcars$new  <- mtcars$gear*60 + sample(-15:15,32,replace = TRUE)
+kororta <- ggplot(mtcars, aes(x=new, y=mpg)) +
+  geom_point() +
+  labs( x="Sosyal Faliyetlere Ayrılan Zaman (dk)", y = "Test Puanı")+
+  theme_bw()
+kororta
+```
+]
+
+--
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kororta + geom_smooth(method=lm, se=FALSE)
+```
+]
+
+--
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kororta+ geom_smooth(method=lm, se=FALSE) +
+  stat_ellipse()
+korortadeger <- round(cor(mtcars$mpg, mtcars$new ), 3)
+```
+]
+
+.alert[Sosyal faliyetlere ayrılan zaman ve test puanı arasındaki korelasyon `r korortadeger`]
+
+
+
+
+
+
+
+
+---
+
+.center[
+## Korelasyon
+
+]
+
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+set.seed(42)
+mtcars$dispnew  <- mtcars$disp /2 + 60 + sample(-5:5, 32, replace = TRUE)
+koryuksek <- ggplot(mtcars, aes(x=dispnew, y=disp)) +
+  geom_point() +
+  labs( x="Ders Dışı Öğrenmeye Ayrılan Zaman (dk)", y = "Test Puanı")+
+  theme_bw()
+koryuksek
+```
+]
+
+--
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+koryuksek + geom_smooth(method=lm, se=FALSE)
+```
+]
+
+--
+
+.three-column[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+koryuksek+ geom_smooth(method=lm, se=FALSE) +
+  stat_ellipse()
+koryuksekdeger <- round(cor(mtcars$disp, mtcars$dispnew ), 3)
+```
+]
+
+.alert[Ders dışı öğrenmeye ayrılan zaman ve test puanı arasındaki korelasyon `r koryuksekdeger`]
+
+---
+
 
 `r emo::ji('link')` [Korelasyon hesaplamaları](https://docs.google.com/spreadsheets/d/1Ha0v62qYpwXhSo-7bx_-hvh_KRmYYic3/edit?usp=sharing&ouid=117160923198825369445&rtpof=true&sd=true)<br>
 ---
