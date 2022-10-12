@@ -106,7 +106,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **ODEV-I (+) Makale Okuma**
 
 
-## `r advdate(mon, 3)`:[Bilimsel Araştırma Temel Kavramlar](sunum/02.html)
+## `r advdate(mon, 3)`:[Bilimsel Araştırma Temel Kavramlar](sunum/03.html)
 
 -   Bilgi Nedir? Bilgi Edinme Yolları Nelerdir?
 -   Bilim Nedir?
