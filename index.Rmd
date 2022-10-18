@@ -113,7 +113,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Bilimin Temel İşlevleri
 -   Bilimin Başlıca Özellikleri
 
-## `r advdate(mon, 3)`: Probleminin Tanımlanması I (sunum/04.html)
+## `r advdate(mon, 3)`: [Probleminin Tanımlanması I](sunum/04.html)
 
 -   Araştırma Problemin Tanımlanması
 -   İyi bir araştırma probeliminin sahip olması gereken özellikler
