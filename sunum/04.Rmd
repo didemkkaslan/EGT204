@@ -230,17 +230,8 @@ output:
 
 - **Açık ve anlaşılır** (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
 
-- Açık ve anlaşılır (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
-<<<<<<< HEAD
 
-- Açık ve anlaşılır (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
-=======
->>>>>>> 780398cb07be8d0c7c5e22da5eae7e14df45784f
 
-- Açık ve anlaşılır (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
->>>>>>> 780398cb07be8d0c7c5e22da5eae7e14df45784f
-
->>>>>>> 87c90bbb989b69e6c03beb50c22092003bea6825
 --
 
 - **Test edilebilir, ölçülebilir** (Öğrencilerin performansıyla anne-babaların yetenekleri arasındaki ilişki !)
@@ -571,28 +562,7 @@ Araştırmanın önemini belirlemeye katkı sağlar.
 
 
 
-```{r echo=FALSE, fig.align='center',out.width="50%"}
-knitr::include_graphics("img/literatür.PNG")
-```
->>>>>>> 87c90bbb989b69e6c03beb50c22092003bea6825
 
----
-## Literatürü tarama yararları
-
-- Araştırma problemini sınırlandırmaya yardımcı olur. 
-
-- Problem kavramsal çerçeve ve önceki araştırmalarla tartışılarak  sınırlandırılır. 
-Araştırmanın önemini belirlemeye katkı sağlar.
-
-- Problemin çözülmesi durumunda ulaşılacak sonuçların kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.  
-
-- Yöntemin geliştirilmesine katkı sağlar. 
-
-- Daha önce yapılan benzeri araştırmalar,  araştırmanın yönteminin geliştirilmesine ışık tutar.  
-
-- Yapılacak araştırmanın sonuçlarının yorumlanmasına yardımcı olur. 
-
-- Literatür taramasıyla ulaşılan kuramsal bilgiler ve önceki araştırmaların sonuçları,  araştırma sonuçlarını yorumlamada ölçüt olarak kullanılır.
 
 ---
 ## Literatürü Taraması
