@@ -175,7 +175,7 @@ knitr::include_graphics("img/hosgeldiniz.jpg")
 ---
 ## `r advdate(mon, 3)`: Bilimsel Araştırmaya Giriş
 
-Ders öncesi Hafta 2 konularını kapsayan bir mini sınav uygulaması yapılacaktır.
+Ders öncesi Hafta 2 konularını kapsayan bir uygulaması yapılacaktır.
 
 -   Bilgi Nedir? 
 -   Bilgi Edinme Yolları Nelerdir?

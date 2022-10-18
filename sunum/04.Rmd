@@ -2,7 +2,7 @@
 title: " EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Probleminin Tanımlanması I"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "2021-2022 GUZ-Hafta 4 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+date: "2022-2023 GUZ <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -64,7 +64,7 @@ mon <- ymd(20220207)
 
 ---
 
-
+.center[
 .hand[
 
  Problemin tanımlanması, 
@@ -72,7 +72,7 @@ mon <- ymd(20220207)
  çoğu kez çözülmesinden daha önemlidir.
 
                                   Albert Einstein
-]
+]]
 
 ---
 
@@ -99,7 +99,7 @@ mon <- ymd(20220207)
 ---
 ## Ig (Ignoble-Değersiz) Nobel Ödülleri
 
-- Ig Nobel ödülleri, ilk kez 1991 yılında olmak üzere her yıl aralık ayında «Annals of Improbable Research» tarafından Harvard Üniversitesi’nde düzenlenen törenle değersiz, saçma, yeniden üretilmeyecek ve üretilmemesi gereken bilimsel çalışmalara verilen ödüllerdir.
+- Ig Nobel ödülleri, ilk kez 1991 yılında olmak üzere her yıl aralık ayında *Annals of Improbable Research* tarafından Harvard Üniversitesi’nde düzenlenen törenle değersiz, saçma, yeniden üretilmeyecek ve üretilmemesi gereken bilimsel çalışmalara verilen ödüllerdir.
 
 --
 
@@ -132,7 +132,36 @@ mon <- ymd(20220207)
 - Geçmiş araştırmaların sonuçları,
 
 --
-  - Kuramlar
+- Kuramlar
+
+
+---
+## Araştırma Problemi
+
+- Araştırma fikri bizi rahatsız eden, ilgimizi çeken, çözülmesini değerli bulduğumuz konulardır. Geneldir.
+
+--
+- Araştırma problemini belirlemenin ön adımıdır. 
+
+--
+
+- Araştırma fikrinin kaynakları;
+
+--
+
+- **Günlük yaşam** Çevreye olan tutum 
+
+--
+
+- **Uygulama** Öğretmenlerin mesleki paylaşımı
+
+--
+
+- **Geçmiş araştırmalar** Değerlendirme tercihleriyle başarı arasındaki ilişki 
+
+--
+
+- **Kuramlar** Bilişsel davranışcı kurama dayalı grup rehberlik programının öfke kontrolüne etkisi 
 
 
 ---
@@ -216,6 +245,57 @@ mon <- ymd(20220207)
 --
 
 - Okuma-yazma öğretiminde A ve B yöntemlerinden hangisi daha etkilidir?
+
+
+---
+## Araştırma Problemi
+
+- **Akla yatkın** (Öğretmenlerin problem davranışları !)
+
+--
+
+- **Önemli** (Matematik başarısı ile matematik zekası arasındaki ilişki !)
+
+--
+
+<<<<<<< HEAD
+- **Açık ve anlaşılır** (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
+=======
+- Açık ve anlaşılır (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
+>>>>>>> 780398cb07be8d0c7c5e22da5eae7e14df45784f
+
+--
+
+- **Test edilebilir, ölçülebilir** (Öğrencilerin performansıyla anne-babaların yetenekleri arasındaki ilişki !)
+
+--
+
+- **Kapsam bakımından ne çok dar ne çok geniş** (Okul ayrılmalarını etkileyen aileye ilişkin sosyal,psikolojik, bilişsel faktörlerin analizi !)
+
+--
+
+- **Özgün-Yeni** (Matematik tutumunun matematik başarısına etkisi !),
+
+--
+
+- **Etik** (Farklı sıklıkta sigara içmeye maruz bırakılan kişilerin kansere yakalanma olasılıklarının karşılaştırılması !) 
+
+---
+## Araştırma problemini nasıl tanımlarız?
+
+**Giriş bilgisi:**  Araştırmanın temel değişkeni hakkında genel bilgiler verilerek probleminin bağlamı ve neden önemli olduğu açıklanır.  
+
+----
+**Gelişme (detaylandırılması):** Çalışmanın kuramsal çerçevesi ve ilgili araştırmalar özetlenir. İlgili çalışmaların sonuçları tartışılarak sunulur. Konu sınırlandırılarak önemli görülen araştırmalar daha detaylı sunulur. 
+
+----
+**Bilgileri özetleme:** Sınırlandırılan konuya ilişkin çalışmaların sonuçları özlüce sunulur.   
+
+----
+**Problem durumuna işaret etme:** Cevabı aranılan problem tanımlanır. Neyin araştırılacağı kısaca açıklanır. Araştırmanın amacına işaret eden problem cümlesi oluşturulur. 
+
+----
+Not: Yukarıdaki başlıklar problem tanımlamanın başlıkları değildir. Tanımlamanın nasıl yapılacağına ilişkin bir yolu göstermektedir.
 
 ---
 ## Araştırma Problemi
@@ -383,9 +463,10 @@ knitr::include_graphics("img/surec.png")
   - Sosyo-ekompnmik düzey nasıl ölçülecek
 
 ]
+
 ---
 
-## HANGİ SORULAR ARAŞTIRILABİLİR? NEDEN?
+## Hangi sorular araştılır?
 
 - Varlık var mıdır?
 
@@ -437,7 +518,7 @@ knitr::include_graphics("img/surec.png")
 ]
 
 ---
-## LİTERATÜR TARAMASI
+## Literatürü Taraması
 
 - Literatür taraması, belirli bir konuyla ilgili yapılmış çalışmaların, araştırılma, erişilme ve değerlendirilme süreci ve kapsamlı bir özetidir.
 
@@ -448,7 +529,7 @@ knitr::include_graphics("img/surec.png")
 ---
 
 .center[
-## LİTERATÜR TARAMASI YAPARKEN İZLENCEK ADIMLAR
+## Literatürü Taraması
 
 ```{r echo=FALSE, fig.align='center', fig.retina=3, message=FALSE, warning=FALSE}
 
@@ -468,10 +549,55 @@ widgetframe::frameWidget(l)
 
 ]
 
+---
+## Literatürü tarama ve raporlama:Kum saati modeli
 
+
+```{r echo=FALSE, fig.align='center',out.width="50%"}
+knitr::include_graphics("img/literatür.PNG")
+```
+<<<<<<< HEAD
+=======
 
 ---
-## LİTERATÜR TARAMASINDA DÖRT TEMEL YÖNTEM
+## Literatürü tarama yararları
+
+- Araştırma problemini sınırlandırmaya yardımcı olur. 
+
+- Problem kavramsal çerçeve ve önceki araştırmalarla tartışılarak  sınırlandırılır. 
+Araştırmanın önemini belirlemeye katkı sağlar.
+
+- Problemin çözülmesi durumunda ulaşılacak sonuçların kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.  
+
+- Yöntemin geliştirilmesine katkı sağlar. 
+
+- Daha önce yapılan benzeri araştırmalar,  araştırmanın yönteminin geliştirilmesine ışık tutar.  
+
+- Yapılacak araştırmanın sonuçlarının yorumlanmasına yardımcı olur. 
+
+- Literatür taramasıyla ulaşılan kuramsal bilgiler ve önceki araştırmaların sonuçları,  araştırma sonuçlarını yorumlamada ölçüt olarak kullanılır.
+>>>>>>> 780398cb07be8d0c7c5e22da5eae7e14df45784f
+
+---
+## Literatürü tarama yararları
+
+- Araştırma problemini sınırlandırmaya yardımcı olur. 
+
+- Problem kavramsal çerçeve ve önceki araştırmalarla tartışılarak  sınırlandırılır. 
+Araştırmanın önemini belirlemeye katkı sağlar.
+
+- Problemin çözülmesi durumunda ulaşılacak sonuçların kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.  
+
+- Yöntemin geliştirilmesine katkı sağlar. 
+
+- Daha önce yapılan benzeri araştırmalar,  araştırmanın yönteminin geliştirilmesine ışık tutar.  
+
+- Yapılacak araştırmanın sonuçlarının yorumlanmasına yardımcı olur. 
+
+- Literatür taramasıyla ulaşılan kuramsal bilgiler ve önceki araştırmaların sonuçları,  araştırma sonuçlarını yorumlamada ölçüt olarak kullanılır.
+
+---
+## Literatürü Taraması
 
 - Elektronik veri tabanı inceleme ve kütüphane taraması yapma
 
@@ -488,7 +614,7 @@ widgetframe::frameWidget(l)
 - Yazar/araştırmacı arama/bağlantı kurma
 
 ---
-## VERİ TABANI İNCELEME
+## Veri Tabanı İnceleme
 
 - `r emo::ji('link')` [Trdizin](https://trdizin.gov.tr/)
 
@@ -541,6 +667,42 @@ knitr::include_graphics("img/Ozet.png")
 ```
 
 Ulutan, E. & Çobanoğlu Aktan, D. (2019). Fen bilgisi başarısını etkileyen değişkenlerin çok düzeyli regresyon modeli ile incelenmesi. *Journal of Measurement and Evaluation in Education and Psychology, 10*(4), 365-377. doi: 10.21031/epod.533713 
+
+
+---
+## Literatür taramada sistematik olma:4N 1K Modeli
+
+Araştırmayı kim yapmış?
+
+----
+
+Araştırma ne zaman yapılmış?
+
+----
+
+Araştırma niçin yapılmış? Araştırma, hangi problemi çözmek için yapılmış?
+
+----
+
+Araştırma nasıl yapılmış? Deseni, örneklemi, veri toplama yöntemi/aracı, analiz yöntemi nedir?
+
+----
+
+Araştırma sonucunda ne bulunmuş?
+
+
+---
+|Anahtar Sözcük:  | Değerlendirme tercihleri   |
+|---|---|
+|Kim yapmış?| Şener Büyüköztürk Yasemin Gülbahar |
+|Niçin yapılmış?| Yükseköğretim öğrencilerinin değerlendirme tercihlerini belirleyerek, tercihlerde gözlenen farkların bölüm ve sınıf değişkenlerine göre farklılaşıp farklılaşmadığını incelemek.|
+|Nasıl yapılmış?| Karşılaştırmalı desen kullanılmış. Bir vakıf üniversitesinde , 476  gönüllü öğrenci üzerinde yapılmış. Değerlendirme tercihleri ölçeği ve analiz için MANOVA kullanılmış.|
+|Ne bulunmuş?| Öğrenciler bir yandan klasik ölçme-değerlendirme yöntemlerini (çoktan seçmeli test) dışta bırakmamakla birlikte, özellikle dönüt alma imkanı buldukları, sürecin de kapsandığı, aktif olabilecekleri, alternatif yöntemlerini daha fazla tercih etmektedirler. Sınıf ve bölüme göre oluşan alt grupların değerlendirme tercihleri arasında birkaç boyutta fark görülse dahi, etki büyüklüğü oldukça düşük çıkmış. |
+
+---
+
+|Anahtar Sözcük:  | Değerlendirme tercihleri   |
+Büyüköztürk, Ş. & Gülbahar, Y. (2010). Assessment preferences of higher education students. Egitim Arastirmaları-Eurasian Journal of Educational Research, 41, 55-72
 
 ---
 ## Anahtar Kelimelerin Belirlenmesi
