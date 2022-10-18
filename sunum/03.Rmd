@@ -155,6 +155,7 @@ mon <- ymd(20220207)
 ## Bilgi Edinme Yolları
 
 - Bilgiye ulaşmanın **en doğru ve güvenilir yolu bilimsel yöntemdir.**
+<<<<<<< HEAD
 
 --
 
@@ -162,6 +163,15 @@ mon <- ymd(20220207)
 
 --
 
+=======
+
+--
+
+- **Bilimsel yöntem;** geçerlik ölçüsü güvenilir veriler olan bir **anlama, bulma ve doğrulama yöntemidir.** 
+
+--
+
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 
 - Bilimsel yöntemle elde edilmiş bilgiler aslında **her an yanlış oldukları ortaya çıkabilecek geçici doğrular mertebisindedir.**
 
@@ -169,6 +179,8 @@ mon <- ymd(20220207)
 ## Bilim Nedir?
 
 - Bu soruya hepimizin birleştiği bir **yanıt henüz verilememiştir.** Bunun başlıca nedenleri
+
+--
 
 --
 
@@ -204,9 +216,15 @@ mon <- ymd(20220207)
 
 
 - Bilim, her türlü düzenden yoksun **duyu verileri (algılar) ile mantıksal olarak düzenli düşünme arasında uygunluk sağlama çabasıdır (Einstein).**
+<<<<<<< HEAD
 
 --
 
+=======
+
+--
+
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - Bilim, **gözlem ve gözleme dayalı akıl yürütme yoluyla önce dünyaya ilişkin olguları, sonra bu olguları birbirine bağlayan yasaları** bulma çabasıdır (Russell).
 
 ---
@@ -237,7 +255,10 @@ süreçlerinin sentezidir.
 
 --
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - Pragmatizm (faydacılık)
 ---
 - **Bilginin Kaynağına İlişkin Düşünce Akımları **
@@ -316,11 +337,19 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - **Olgusaldır;** tek tek olaylarla değil olgularla ilgilenir.
 
 --
+<<<<<<< HEAD
 
 - **Seçicidir;** madde ile ilgilenir. Metafizik bilimin konusu değildir.
 
 --
 
+=======
+
+- **Seçicidir;** madde ile ilgilenir. Metafizik bilimin konusu değildir.
+
+--
+
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - **Objektiftir;** öznellikten uzak bir şekilde olabildiğince yansız yürütülür. 
 
 --
@@ -332,6 +361,7 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - **Eleştireldir;** mevcut bilimsel bilgilere eleştirel bir yaklaşım sergiler.
 
 --
+<<<<<<< HEAD
 
 - **Birikimlidir;** yeni bilimsel araştırmalar için mevcut bilgiler ön bilgi oluşturur. 
 
@@ -350,6 +380,14 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - Bu dünyanın bizim için anlaşılır olduğu
 
 - Bu dünyanı bilme ve anlamanın değerli bir uğraş olduğu
+=======
+
+- **Birikimlidir;** yeni bilimsel araştırmalar için mevcut bilgiler ön bilgi oluşturur. 
+
+--
+
+- **Evrenseldir;** aynı koşullar altında benzer sonuçlar üretecek niteliktedir (Şimşek, 2019).
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 
 ---
 ## BİLİMİN TEMEL İŞLEVLERİ	
@@ -442,6 +480,7 @@ knitr::include_graphics("img/bilimislev.PNG")
 Bilimsel Araştırma 
 
 -  Geçerli bir **soruna** dayanmalıdır
+<<<<<<< HEAD
 
 --
 
@@ -453,6 +492,19 @@ Bilimsel Araştırma
 
 --
 
+=======
+
+--
+
+- Kuramsal yapısı, değişkenleri ve **değişkenler arasındaki muhtemel ilişkiler** belirlenmelidir.
+
+--
+
+- Araştırma **yöntemi** tespit edilmelidir.
+
+--
+
+>>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - Araştırma yöntemine uygun **örneklem ve veri toplama araçları** belirlenerek veri toplanmalıdır.
 
 --
