@@ -155,7 +155,6 @@ mon <- ymd(20220207)
 ## Bilgi Edinme Yolları
 
 - Bilgiye ulaşmanın **en doğru ve güvenilir yolu bilimsel yöntemdir.**
-<<<<<<< HEAD
 
 --
 
