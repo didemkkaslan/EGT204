@@ -163,7 +163,7 @@ mon <- ymd(20220207)
 
 --
 
-=======
+
 
 --
 
@@ -171,7 +171,6 @@ mon <- ymd(20220207)
 
 --
 
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 
 - Bilimsel yöntemle elde edilmiş bilgiler aslında **her an yanlış oldukları ortaya çıkabilecek geçici doğrular mertebisindedir.**
 
@@ -216,15 +215,10 @@ mon <- ymd(20220207)
 
 
 - Bilim, her türlü düzenden yoksun **duyu verileri (algılar) ile mantıksal olarak düzenli düşünme arasında uygunluk sağlama çabasıdır (Einstein).**
-<<<<<<< HEAD
+
 
 --
 
-=======
-
---
-
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - Bilim, **gözlem ve gözleme dayalı akıl yürütme yoluyla önce dünyaya ilişkin olguları, sonra bu olguları birbirine bağlayan yasaları** bulma çabasıdır (Russell).
 
 ---
@@ -255,11 +249,11 @@ süreçlerinin sentezidir.
 
 --
 
-<<<<<<< HEAD
 
-=======
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
+
+
 - Pragmatizm (faydacılık)
+
 ---
 - **Bilginin Kaynağına İlişkin Düşünce Akımları **
 
@@ -337,19 +331,17 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - **Olgusaldır;** tek tek olaylarla değil olgularla ilgilenir.
 
 --
-<<<<<<< HEAD
 
 - **Seçicidir;** madde ile ilgilenir. Metafizik bilimin konusu değildir.
 
 --
 
-=======
+
 
 - **Seçicidir;** madde ile ilgilenir. Metafizik bilimin konusu değildir.
 
 --
 
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - **Objektiftir;** öznellikten uzak bir şekilde olabildiğince yansız yürütülür. 
 
 --
@@ -361,7 +353,6 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - **Eleştireldir;** mevcut bilimsel bilgilere eleştirel bir yaklaşım sergiler.
 
 --
-<<<<<<< HEAD
 
 - **Birikimlidir;** yeni bilimsel araştırmalar için mevcut bilgiler ön bilgi oluşturur. 
 
@@ -380,14 +371,13 @@ bu olayların tümünü olgusal olarak açıklayan ortak ve temel bir ilkeye ula
 - Bu dünyanın bizim için anlaşılır olduğu
 
 - Bu dünyanı bilme ve anlamanın değerli bir uğraş olduğu
-=======
+
 
 - **Birikimlidir;** yeni bilimsel araştırmalar için mevcut bilgiler ön bilgi oluşturur. 
 
 --
 
 - **Evrenseldir;** aynı koşullar altında benzer sonuçlar üretecek niteliktedir (Şimşek, 2019).
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 
 ---
 ## BİLİMİN TEMEL İŞLEVLERİ	
@@ -480,7 +470,6 @@ knitr::include_graphics("img/bilimislev.PNG")
 Bilimsel Araştırma 
 
 -  Geçerli bir **soruna** dayanmalıdır
-<<<<<<< HEAD
 
 --
 
@@ -492,7 +481,7 @@ Bilimsel Araştırma
 
 --
 
-=======
+
 
 --
 
@@ -504,7 +493,6 @@ Bilimsel Araştırma
 
 --
 
->>>>>>> fb8431993c61af0397090864edcf20198dc396f3
 - Araştırma yöntemine uygun **örneklem ve veri toplama araçları** belirlenerek veri toplanmalıdır.
 
 --
