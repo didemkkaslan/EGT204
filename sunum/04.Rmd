@@ -19,7 +19,16 @@ output:
         </div>
 ---
 
-
+```{r echo=FALSE, fig.align='center', fig.retina=3, message=FALSE, warning=FALSE}
+l <- DiagrammeR::mermaid("
+        graph TB
+        A[Araştırma sorusu gözden geçirilir.]
+        A --> B[Literatür taramasında kullanılacak anahtar kelimeler belirlenir.]
+        B --> C[Konu hakkındaki literatür bulunur.]
+        C --> D[Karşımıza çıkan literatür eleştirel gözle değerlendirilir ve uygun olanlar seçilerek özetleri çıkarılır.]
+        D --> E[Araştırma raporuna eklemek için literatür özetlerini içeren bir literatür taraması yazılır.]
+        ")
+```
 
 # Probleminin Tanımlanması I .huge[`r emo::ji("stats")`]
 
@@ -39,7 +48,8 @@ output:
 
  çoğu kez çözülmesinden daha önemlidir.
 
-                                  Albert Einstein
+                          Albert Einstein
+                          
 ]]
 
 ---
@@ -162,28 +172,28 @@ output:
 
 --
 
-- İlk olarak araştırma için bir fikir bulmanız gerekir.
+- İlk olarak araştırma için **bir fikir bulmanız gerekir.**
 
 --
 
-- Bu fikir kaynağı günlük yaşamdan, uygulamalardan, geçmiş araştırmalardan ve ya kuramlardan gelebilir. 
+- Bu fikir kaynağı **günlük yaşamdan, uygulamalardan, geçmiş araştırmalardan ve ya kuramlardan gelebilir. **
 
 --
 
-- Fikir kaynakları size genel bir çerçeve verecektir.
+- Fikir kaynakları size **genel bir çerçeve** verecektir.
 
 --
 
-- Fikriniz sonucunda araştırma konusunu da belirleyebilirsiniz.
+- Fikriniz sonucunda **araştırma konusunu** da belirleyebilirsiniz.
 
 --
 
-- Eğer enerji içeceklerin performansınız üzerinde etkisini olduğunu düşünüyorsanız araştırma fikrinizin kaynağı günlük yaşamdır.
+- Eğer enerji içeceklerin performansınız üzerinde etkisini olduğunu düşünüyorsanız araştırma fikrinizin kaynağı **günlük yaşamdır.**
 
 ---
 ## Araştırma Problemi
 
-- Aşağıdaki araştırma soruları araştırılabilir midir?
+- Aşağıdaki araştırma soruları **araştırılabilir midir?**
 
 --
 
@@ -221,31 +231,21 @@ output:
 - **Akla yatkın** (Öğretmenlerin problem davranışları !)
 
 --
-
 - **Önemli** (Matematik başarısı ile matematik zekası arasındaki ilişki !)
 
 --
-
-
-
 - **Açık ve anlaşılır** (Liderlik konseptinin okullardaki izdüşümüne ilişkin öğretmen algıları !)
 
-
+--
+- **Test edilebilir, ölçülebilir** (Öğrencilerin performansıyla anne-babaların yetenekleri arasındaki ilişki!)
 
 --
-
-- **Test edilebilir, ölçülebilir** (Öğrencilerin performansıyla anne-babaların yetenekleri arasındaki ilişki !)
-
---
-
-- **Kapsam bakımından ne çok dar ne çok geniş** (Okul ayrılmalarını etkileyen aileye ilişkin sosyal,psikolojik, bilişsel faktörlerin analizi !)
+- **Kapsam bakımından ne çok dar ne çok geniş** (Okul ayrılmalarını etkileyen aileye ilişkin sosyal, psikolojik, bilişsel faktörlerin analizi !)
 
 --
-
-- **Özgün-Yeni** (Matematik tutumunun matematik başarısına etkisi !),
+- **Özgün-Yeni** (Matematik tutumunun matematik başarısına etkisi!),
 
 --
-
 - **Etik** (Farklı sıklıkta sigara içmeye maruz bırakılan kişilerin kansere yakalanma olasılıklarının karşılaştırılması !) 
 
 ---
@@ -254,48 +254,53 @@ output:
 **Giriş bilgisi:**  Araştırmanın temel değişkeni hakkında genel bilgiler verilerek probleminin bağlamı ve neden önemli olduğu açıklanır.  
 
 ----
+
 **Gelişme (detaylandırılması):** Çalışmanın kuramsal çerçevesi ve ilgili araştırmalar özetlenir. İlgili çalışmaların sonuçları tartışılarak sunulur. Konu sınırlandırılarak önemli görülen araştırmalar daha detaylı sunulur. 
 
 ----
-**Bilgileri özetleme:** Sınırlandırılan konuya ilişkin çalışmaların sonuçları özlüce sunulur.   
+
+**Bilgileri özetleme:** Sınırlandırılan konuya ilişkin çalışmaların sonuçları özlüce sunulur.     
 
 ----
+
+
 **Problem durumuna işaret etme:** Cevabı aranılan problem tanımlanır. Neyin araştırılacağı kısaca açıklanır. Araştırmanın amacına işaret eden problem cümlesi oluşturulur. 
 
 ----
+
 Not: Yukarıdaki başlıklar problem tanımlamanın başlıkları değildir. Tanımlamanın nasıl yapılacağına ilişkin bir yolu göstermektedir.
 
 ---
 ## Araştırma Problemi
 
-- Problem seçiminde dikkat edilmesi gereken özel ölçütler: 
+- Problem seçiminde dikkat edilmesi gereken **özel ölçütler:**
 
 --
 
-- Alanda Yeterlik (Araştırmacının ilgili alan bilgisi yeterli mi?)
+- **Alanda Yeterlik** (Araştırmacının ilgili alan bilgisi yeterli mi?)
 
 --
 
-- Yöntem ve Teknikte Yeterlik (Araştırmacı gerekli istatistik, yöntem, ölçme bilgisine sahip mi?)
+- **Yöntem ve Teknikte Yeterlik** (Araştırmacı gerekli istatistik, yöntem, ölçme bilgisine sahip mi?)
 
 --
 
-- Veri Toplama İzni 
+- **Veri Toplama İzni** 
 
 --
 
-- Zaman ve Olanak Yeterliği (Zaman, eleman, mali güç)
+- **Zaman ve Olanak Yeterliği** (Zaman, eleman, mali güç)
 
 --
 
-- İlgi Yeterliği (bütün güçlükleri karşılamaya, olumsuz sonuçlara hazır mı?)
+- **İlgi Yeterliği** (bütün güçlükleri karşılamaya, olumsuz sonuçlara hazır mı?)
 
 
 ---
 ## Araştırma Problemi Bulmada İzlenecek Yollar
 
 
-- Problem ile doğrudan ilgili olan kaynaklara ulaşmak
+- Problem ile **doğrudan ilgili olan kaynaklara ulaşmak**
 
 --
 
@@ -363,32 +368,32 @@ Not: Yukarıdaki başlıklar problem tanımlamanın başlıkları değildir. Tan
 
 Araştırma ;
 
-- Yapılabilir olmalıdır.
+- **Yapılabilir** olmalıdır.
 
 --
 
-- Problemi açıkça ifade edilmiş olmalıdır.
+- Problemi **açıkça ifade edilmiş** olmalıdır.
 
 --
 
-- Önemli olmalıdır.
+- **Önemli** olmalıdır.
 
 --
 
-- Kuramsal temele dayanmalıdır
+- **Kuramsal temele** dayanmalıdır
 
 ---
 ## Araştırma Problemi Özellikleri
 
-- Akla yatkın olmalıdır.
+- **Akla yatkın** olmalıdır.
 
 --
 
-- Anlamlı olmalıdır.
+- **Anlamlı** olmalıdır.
 
 --
 
-- Açık ve anlaşılır olmalıdır.
+- **Açık ve anlaşılır** olmalıdır.
 
 --
 
@@ -396,19 +401,19 @@ Araştırma ;
 
 --
 
-- Sınanabilir, test edilebilir, ölçülebilir olmalıdır.
+- **Sınanabilir, test edilebilir, ölçülebilir olmalıdır.**
 
 --
 
-- Orijinal ve özgün olmalıdır.
+- **Orijinal ve özgün** olmalıdır.
 
 --
 
-- Etik olmalıdır.
+- **Etik** olmalıdır.
 
 --
 
-- Araştırma probleminizin araştırmaya değer, özgün ve anlamlı olup olmadığına literatür taraması ile karar vermelisiniz.
+- Araştırma probleminizin araştırmaya değer, **özgün ve anlamlı olup olmadığına literatür taraması** ile karar vermelisiniz.
 
 
 ---
@@ -499,15 +504,7 @@ knitr::include_graphics("img/surec.png")
 .center[
 ## Literatürü Taraması
 
-```{r echo=FALSE, fig.align='center', fig.retina=3, message=FALSE, warning=FALSE}
-l <- DiagrammeR::mermaid("
-        graph TB
-        A[Araştırma sorusu gözden geçirilir.]
-        A --> B[Literatür taramasında kullanılacak anahtar kelimeler belirlenir.]
-        B --> C[Konu hakkındaki literatür bulunur.]
-        C --> D[Karşımıza çıkan literatür eleştirel gözle değerlendirilir ve uygun olanlar seçilerek özetleri çıkarılır.]
-        D --> E[Araştırma raporuna eklemek için literatür özetlerini içeren bir literatür taraması yazılır.]
-        ")
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE}
 widgetframe::frameWidget(l)
 ```
 
@@ -527,41 +524,20 @@ knitr::include_graphics("img/literatür.PNG")
 ---
 ## Literatürü tarama yararları
 
-- Araştırma problemini sınırlandırmaya yardımcı olur. 
+- Araştırma problemini **sınırlandırmaya yardımcı olur.** 
 
-- Problem kavramsal çerçeve ve önceki araştırmalarla tartışılarak  sınırlandırılır. 
-Araştırmanın önemini belirlemeye katkı sağlar.
+- Problem kavramsal çerçeve ve önceki araştırmalarla **tartışılarak  sınırlandırılır.** 
+Araştırmanın **önemini belirlemeye katkı sağlar.**
 
-- Problemin çözülmesi durumunda ulaşılacak sonuçların kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.  
+- Problemin çözülmesi durumunda ulaşılacak sonuçların **kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.**  
 
-- Yöntemin geliştirilmesine katkı sağlar. 
+- **Yöntemin geliştirilmesine** katkı sağlar. 
 
-- Daha önce yapılan benzeri araştırmalar,  araştırmanın yönteminin geliştirilmesine ışık tutar.  
+- Daha önce yapılan benzeri araştırmalar,  araştırmanın **yönteminin geliştirilmesine ışık tutar.**  
 
-- Yapılacak araştırmanın sonuçlarının yorumlanmasına yardımcı olur. 
+- Yapılacak araştırmanın **sonuçlarının yorumlanmasına** yardımcı olur. 
 
-- Literatür taramasıyla ulaşılan kuramsal bilgiler ve önceki araştırmaların sonuçları,  araştırma sonuçlarını yorumlamada ölçüt olarak kullanılır.
-
-
-
----
-## Literatürü tarama yararları
-
-- Araştırma problemini sınırlandırmaya yardımcı olur. 
-
-- Problem kavramsal çerçeve ve önceki araştırmalarla tartışılarak  sınırlandırılır. 
-Araştırmanın önemini belirlemeye katkı sağlar.
-
-- Problemin çözülmesi durumunda ulaşılacak sonuçların kurama ve/veya uygulamaya ne tür katkılar sağlayabileceğini hakkında seçenekler sunar.  
-
-- Yöntemin geliştirilmesine katkı sağlar. 
-
-- Daha önce yapılan benzeri araştırmalar,  araştırmanın yönteminin geliştirilmesine ışık tutar.  
-
-- Yapılacak araştırmanın sonuçlarının yorumlanmasına yardımcı olur. 
-
-
-
+- Literatür taramasıyla ulaşılan kuramsal bilgiler ve önceki araştırmaların sonuçları,  araştırma **sonuçlarını yorumlamada ölçüt** olarak kullanılır.
 
 
 ---
@@ -669,8 +645,14 @@ Araştırma sonucunda ne bulunmuş?
 
 ---
 
-|Anahtar Sözcük:  | Değerlendirme tercihleri   |
-Büyüköztürk, Ş. & Gülbahar, Y. (2010). Assessment preferences of higher education students. Egitim Arastirmaları-Eurasian Journal of Educational Research, 41, 55-72
+
+
+   
+     
+     
+|Anahtar Sözcük:  Değerlendirme tercihleri |   
+|---|
+|Büyüköztürk, Ş. & Gülbahar, Y. (2010). Assessment preferences of higher education students. Egitim Arastirmaları-Eurasian Journal of Educational Research, 41, 55-72|
 
 ---
 ## Anahtar Kelimelerin Belirlenmesi
