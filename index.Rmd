@@ -119,23 +119,18 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   İyi bir araştırma probeliminin sahip olması gereken özellikler
 -   Problem ve alt problemler
 -   Literatur Taraması
--   **ODEV-I (+) Problem Durumu Belirleme**
 
-## `r advdate(mon, 5)`: Probleminin Tanımlanması II
+## `r advdate(mon, 5)`: [Probleminin Tanımlanması II](sunum/05.html)
 
 -   Değişken nedir?
-
 -   Değişken Sınıflaması
-
 -   Hipotez Nedir?
-
 -   Hipotez Türleri
-
 -   Araştırma Amacı ve Önemi
-
 -   Sayıltı ve Sınırlılık
-
 -   Tanımlar, Kısaltmalar
+-   **ODEV-I (+) Problem Durumu Belirleme**
+
 
 ## `r advdate(mon, 6)`: Örnekleme Yöntemleri
 
