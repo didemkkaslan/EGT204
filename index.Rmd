@@ -132,7 +132,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **ODEV-I (+) Problem Durumu Belirleme**
 
 
-## `r advdate(mon, 6)`: Örnekleme Yöntemleri
+## `r advdate(mon, 6)`: [Örnekleme Yöntemleri](sunum/06.html)
 
 Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması yapılacaktır.
 
