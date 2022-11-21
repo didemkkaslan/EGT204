@@ -129,23 +129,28 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Araştırma Amacı ve Önemi
 -   Sayıltı ve Sınırlılık
 -   Tanımlar, Kısaltmalar
--   **ODEV-I (+) Problem Durumu Belirleme**
+-   **ODEV-II (+) Problem Durumu Belirleme**
 
 
 ## `r advdate(mon, 6)`: [Örnekleme Yöntemleri](sunum/06.html)
 
-Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması yapılacaktır.
 
 -   Evren - Örneklem Tanımı Örnekleme Nedir?
 -   Örnekleme Yöntemleri
 -   Örnekleme Aşamaları
 -   Örneklem Büyüklüğü
 -   Örnekleme Hatası
--   **ODEV-III (+) Örnekleme**
+-   **Ara Sınav**
 
-## `r advdate(mon, 7)`: Veri Toplama Araçları I
+## `r advdate(mon, 8)`: Veri Toplama Araçları I (sunum/08.html)
 
-## `r advdate(mon, 8)`: Veri Toplama Araçları II
+- Veri Toplama Araçları
+- Anket
+- Anket Geliştirme Süreci
+- Madde Türleri
+- Ölçekler
+
+## `r advdate(mon, 9)`: Veri Toplama Araçları II
 
 -   Anketler
 -   Gözlem formları
@@ -153,7 +158,6 @@ Ders öncesi Hafta 3 ve Hafta 4 konularını kapsayan bir mini sinav uygulaması
 -   Çevirim için veri toplama araçları
 -   **ODEV-IV (++) Çevirim içi Anket Hazırlama**
 
-## `r advdate(mon, 9)`: Ara Sınav
 
 
 ## `r advdate(mon, 10)`: Verilerin Analizi
