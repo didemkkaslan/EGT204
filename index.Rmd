@@ -142,7 +142,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Örnekleme Hatası
 -   **Ara Sınav**
 
-## `r advdate(mon, 8)`: [Veri Toplama Araçları I](sunum/08.html)
+## `r advdate(mon, 8)`: Veri Toplama Araçları I (sunum/08.html)
 
 - Veri Toplama Araçları
 - Anket
