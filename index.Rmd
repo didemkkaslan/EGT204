@@ -150,7 +150,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 - Madde Türleri
 - Ölçekler
 
-## `r advdate(mon, 9)`: Veri Toplama Araçları II
+## `r advdate(mon, 9)`:[Veri Toplama Araçları II](sunum/09.html)
 
 -   Anketler
 -   Gözlem formları
