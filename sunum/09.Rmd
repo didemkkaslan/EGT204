@@ -164,7 +164,7 @@ knitr::include_graphics("img/gozlem_05.png")
 
 ---
 
-```{r echo=FALSE, fig.align='center',out.width="60%"}
+```{r echo=FALSE, fig.align='center',out.width="55%"}
 knitr::include_graphics("img/gorusmeform01.png")
 ```
 
