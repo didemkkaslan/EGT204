@@ -117,12 +117,14 @@ style_duo_accent(
 ## Tarama Araştırması
 
 - **Belirli özelliklerin** belirlenmesini amaçlar,
+<<<<<<< HEAD
   - Anket
   - görüşme
   - Yüzde
   - frekans
 
 - **EGT204-05 şubesindeki öğrencilerin en çok sevdikleri kitap türü nedir?**
+
 
 ---
 ## Korelasyonel Araştırması
@@ -135,6 +137,7 @@ style_duo_accent(
 - **EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türü ile başarı puanları arasıda nasıl bir ilişki vardır?**
 
 
+
 ---
 ## Nedensel Karşılaştırma  Araştırması
 
@@ -143,6 +146,7 @@ style_duo_accent(
 - Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
 
 - **EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?**
+
 
 ---
 ## Deneysel Araştırma
@@ -153,6 +157,7 @@ style_duo_accent(
 - **Karşılaştırılabilir** işlemler uygulanır ve bu işlemlerin etkileri incelenir. 
 
 **EGT204-04 şubesindeki öğrencilerin yarısına geleneksel uygulama, diğer yarısına ise ters yüz öğrenme yöntemi uygulanırsa dönem sonundaki başarı puanları arasında anlamlı bir farklılık olur mu?**
+
 
 ---
 ## Tek Denekli Araştırma
