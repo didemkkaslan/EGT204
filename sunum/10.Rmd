@@ -1,6 +1,6 @@
 ---
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
-subtitle: " <br> `r emo::ji('graph')` Nitel Verilerin Toplanması ve Analizi"
+subtitle: " <br> `r emo::ji('graph')` Araştırmaların Sınıflandırılması"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
 date: "Hafta 10 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
@@ -38,225 +38,270 @@ style_duo_accent(
 ```
 
 ---
-## Nitel Verilerin Toplanması ve Analizi .huge[`r emo::ji("stats")`]
+## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
 
 .hand[İçerik...]
 
-- Gözlem
-
-- Görüşme
-
----
-
-
-.pull-left[
-## Gözlem
-
-- Araştırmada ihtiyaç duyulan verilerin **insan, toplum ya da doğa** gibi belli hedeflere odaklanılarak **çıplak gözle ya da bir araç kullanılarak izlenmesi** suretiyle toplanması sürecidir (Büyüköztürk vd., 2020). 
-]
-
-.pull-right[
-```{r echo=FALSE, fig.align='center',out.width="90%"}
-knitr::include_graphics("img/gozlem_01.png")
-```
-]
+-   Araştırma Nedir?
+-   Temel ve Uygulamalı Araştırmaları
+-   Laboratuar ve Saha Araştırmaları
+-   Anlık ve Boylamsal Araştırmaları
+-   Kavramsal ve Ampirik Araştırmalar
+-   Deneysel ve Deneysel Olmayan Araştırmalar
+-   Nicel ve Nitel Araştırmalar
+  -   Nicel Araştırmalar
+      -   Tarama Araştırması
+      -   Deneysel Araştırma
+      -   Meta Analiz 
+  -   Nitel Araşatırma Desenleri
+      -   İçerik Analizi
+      -   Eylem Araştırması
+      -   Durum Araştırması
+-   Karma Yöntem Araştırmaları
 
 ---
+## Bilimsel Araştırmaların Sınıflanması
 
-.pull-left[
-## Gözlem
+- Yapıldıkları çevreye göre, **labrotuvar ve saha (alan)** araştırmaları;
 
-- Gözlem formları, **gözlenen özelliğe göre, gözlemin amacına ve türüne göre** farklılık gösterebilir. 
+- Düzeylerine göre **kuramsal ve uygulamalı** araştırmalar; 
 
-- Kontrol listeleri ya da derecelendirme ölçekleri gözlem formu olarak kullanılabilir. Bunun yanı sıra gözlenen özelliğe ilişkin gözlemci gözlemlerini yazılı olarak kaydedebilir.
+- Yönteme göre tarihi, **betimsel ve deneysel** araştırmalar; 
 
-- Davranışların incelendiği çalışmalarda kullanılır.
-Sınıf içi öğretmen, öğrenci davranışları
-Yönetici davranışları……
-]
+- Kontrol özelliğine göre **survey ve deneysel** araştırmalar
 
-.pull-right[
-```{r echo=FALSE, fig.align='center',out.width="50%"}
-knitr::include_graphics("img/gozlem_05.png")
-```
-]
+- Varsayımları doğrulama ya da mevcut durumu belirleme yaklaşımlarına göre **nicel-nitel** araştırmalar olarak gruplandırılabilir
 
 ---
-## Gözlemlerin Sınıflandırılması
-### Yapılandırma durumuna göre
+## Bilimsel Araştırmaların Sınıflanması
 
-|Yapılandırılmış Gözlem |Yapılandırılmamış Gözlem|
-|---|---|
-|Gözlem öncesinde **gözlenecek yapılar tanımlanır.** |Gözlem için önceden oluşturulmuş, **tanımlanmış yapılar yoktur.**  |
-|Bilginin toplanması ve kaydedilmesi için oluşturulmuş bir **kodlama sistemi vardır.**|Gözlemciye  **veri toplamada ve kaydetmede esneklik, özgürlük vardır.** |
+- Farklı sınıflamalar bulunmaktadır (Büyüköztürk, Çakmak, Akgün, Karadeniz, & Demirel, 2008; Karasar, 2003; Şekercioğlu, 2011/2015)
 
----
-## Yapılandırılmış Gözlem
+- Uygulama/Düzey açısından 
+    - Temel
+    - Uygulamalı
 
-|Katılımcı Gözlemci| Katılımcı Olmayan Gözlemci |
-|---|---|
-|Katılımcı gözlediği grubun bir üyesidir. Grup içinde bir rol üstlenir . | Dışarıdan gözlem yapılır. Gözlemci, gözlem yapılan ortamda bulunur. |
-|  |  |
-|Küçük gruplarda, **kısa süreli , sık tekrarlanan etkinliklerde, nitel araştırmalarda ve yapılandırılmamış gözlemlerde** önerilir. |**Dilin, geleneğin, değerlerin, yazılı-yazısız kuralları  araştırmak için önerilir.** Yapılandırılmamış ve yapılandırılmış gözlemlerde kullanılabilir. | 
-| **Örnek: Grup davranışlarının dinamiklerini anlamak** | **Örnek: Öğrenci davranışları** |
+- Amaç açısından 
+    - Betimsel, 
+    - İlişkisel
+    - Açımlayıcı/Keşfedici
 
+- Kullanılan inceleme yöntemine/ verinin türüne göre 
+     - Nitel
+     - Nicel
 
 
 
 ---
-## Katılımcı Gözlem 
+##  Nicel ve Nitel Araştırmalar
 
-- Katılımcı Gözlemde Oluşabilecek Ön Yargılar
+- **Nicel** araştırmalar değişkenler arasındaki **ilişkileri kanıtlamaya çalışır** ve bu tür ilişkilerin nedenlerini arar ve bazen açıklar.
 
-
-- Seçici dikkat
-
-- Seçici kodlama
-
-- Seçici bellek
-
-- Kişilerarası etkenler
+- **Nitel araştırmalar,** durumları ve olayları katılımcıların bakış açılarından anlamaya çalışır. **Katılımcıların doğrudan araştırmanın içinde** yer alması söz konusudur.
 
 
 ---
+##  Nicel ve Nitel Araştırmalar
 
-```{r echo=FALSE, fig.align='center',out.width="60%"}
-knitr::include_graphics("img/gozlemform01.png")
-```
+- Tarama Araştırması
+
+- Korelasyonel Araştırma
+
+- Nedensel Karşılaştırma Araştırması
+
+- Deneysel Araştırma
+
+- Tek Denekli Araştırma
+
+- Tasarım ve Geliştirme Araştırması
+
+- Meta - Analiz
+
+---
+## Tarama Araştırması
+
+- **Belirli özelliklerin** belirlenmesini amaçlar,
+- Anket
+- görüşme,
+- Yüzde
+- frekans
+
+- EGT204-05 şubesindeki öğrencilerin en çok sevdikleri kitap türü nedir?
+
+---
+## Korelasyonel Araştırması
+
+- İki ya da daha fazla değişen arasındaki **ilişkinin** belirlenmesi amaçlar,
+
+- Araştırmacı ölçme araçlarını uygulamak dışında herhangi bir **müdahale ya da yönlendirme yapmaz,**
+
+
+- EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türü ile başarı puanları arasıda nasıl bir ilişki vardır
 
 
 ---
+## Nedensel Karşılaştırma  Araştırması
 
-```{r echo=FALSE, fig.align='center',out.width="90%"}
-knitr::include_graphics("img/gozlemform02.png")
-```
----
+- İnsan grupları arasındaki **farklılıkların** nedenlerini ve sonuçlarını koşullar ve katılımcılar üzerinde herhangi bir müdahale olmaksızın belirlemeyi amaçlar, 
 
-.pull-left-wide[
+- Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
 
-## Görüşme
-
-- En az iki kişi arasında sözlü olarak   sürdürülen veri toplama amaçlı bir iletişim sürecidir.
-
-- Derinlemesine bilgi sağlar. 
-
-- Güvenilir ve geçerli sonuçlar elde etmenin zorluğu yaşanır. 
-
-- Büyük resmin ne olduğunu anlamak esastır. “Bütünsel yorumlama”
-
-- İyi bir görüşme, bireysel düşünceler ve inanışlar hakkında tarafsız bilgi edinme sanatı ve bilimi olarak tanımlanır.
-]
-
-.pull-right-narrow[
-```{r echo=FALSE, fig.align='center',out.width="60%"}
-knitr::include_graphics("img/gozlem_05.png")
-```
-]
----
-## Görüşme
-
-- Görüşme, daha çok tarama araştırmalarında kullanılan bir tekniktir. Araştırmacı, bilgi toplamak istediği kişilerle yüz yüze görüşür. 
-
-- Görüşme öncesinde, **araştırmanın amacına uygun olarak soruların yer aldığı bir görüşme formu hazırlanır.** 
-
-- Araştırmacı görüşme yaptığı kişilere bu soruları sorar, cevaplarını yazılı ya da ses kaydı olarak kaydeder.
-
+- EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?
 
 ---
+## Deneysel Araştırma
 
-```{r echo=FALSE, fig.align='center',out.width="60%"}
-knitr::include_graphics("img/gorusmeform01.png")
-```
+
+- Bilimsel yöntemler arasında **en kesin sonuçların** elde edildiği araştırma türüdür. 
+
+- **Karşılaştırılabilir** işlemler uygulanır ve bu işlemlerin etkileri incelenir. 
+
+EGT204-04 şubesindeki öğrencilerin yarısına geleneksel uygulama, diğer yarısına ise ters yüz öğrenme yöntemi uygulanırsa dönem sonundaki başarı puanları arasında anlamlı bir farklılık olur mu?
 
 ---
-## Görüşmelerin Sınıflandırılması
+## Tek Denekli Araştırma
 
-| Yapılandırılmış Görüşme    | Yarı Yapılandırılmış Görüşme | Yapılandırılmamış Görüşme |
-|---|---|---|
-| Önceden hazırlanmış sıralı sorular vardır. Genellikle sunulan seçeneklerden birinin seçilmesi istenir. Görüşmeciyi kısıtlaması, temel dezavantajlarıdır. Nitel çalışmalarda önerilmez. | Sorular önceden tanımlıdır. Analizlerin kolaylığı, görüşülene kendini ifade etme imkanı gibi avantajları;  önemsiz konularda fazla zaman harcanması gibi dezavantajları bulunur. | Araştırmacıya konuyla ilgili soru sormada serbestlik sağlar. Sorular ve sıraları görüşme sürecinde gelişir. |
+- Tek bir bireyin ( az sayıda oluşan bir grubun) bir süre yoğun bir şekilde incelenmesini ve üzerinde çalışmasını içerir. 
  
+- Diğer bireylerden belirgin farklılıklara sahip bireyler üzerinde çalışılır. 
+
 ---
-## Görüşmelerin sınıflandırılması…
+## Tasarım ve Geliştirme Araştırması
 
-- **Etnografik görüşme:** Yapılandırılmamış görüşmelere girer. Bu tür görüşmelerle, grubun/bireyin kültürel yapılarının ve bu yapıları oluşturan davranış ve deneyimlerin açıklanması amaçlanır.  
+- Eğitim bilimlerinde özellikle **eğitim teknolojisi** alanı,
 
-- **Odak grup görüşmesi:** Görüşmeyi yapan kişi küçük bir gruptan (genellikle dört ile sekiz kişi arası), bir dizi sorun hakkında düşünmesini ister. Benzeşik grupların olması durumunda önerilir.
----
-## Görüşme Öncesi Hazırlık Aşamaları
+- Bilimsel sonuç ve önerilere dayalı olarak **yeni çözüm ve ürünlerin** gelişmesi,
 
-- Genel ve özel amaçlı araştırma sorularına karar vermek
+- Özellikle **proje** çalışmaları için önerilir,
 
-- Görüşme sorularını tasarlamak
-
-- Soruları sıralamak
-
-- Süreye karar vermek
-
-- Giriş ve kapanıları hazırlamak
-
-- Görüşme kayıtları için hazırlık yapmak
-
-- Görüşme formu için pilot test yapmak
+- Nitel, nicel ya da karma veri toplama yöntemleri
 
 
 ---
-## Görüşme Anında Yapılması Gerekenler
+## Meta Analiz
 
-- Görüşmeye başlama
-
-- Konuyu tanımlama
-
-- Bilgisinin olmasını sağlama
-
-- Görüşmeyi yapma
-
-- Görüşmeyi sonlandırma
-
-- Not tutma
+- **Belirli bir amaca/konuya** yönelik yapılan araştırmaları birlikte inceleyip bir **senteze** ulaşılması amaçlanır,
 
 
 ---
-## Gözlem ve Görüşmede Geçerlik ve Güvenirlik
+## Nitel Araştırmalar
+
+- Etnografik Araştırma
+
+- Tarihi Araştırma
+
+- Eylem Araştırması
+
+- Olgubilim Çalışmaları
+
+- Kuram Oluşturma Çalışmaları
+
+- Durum Çalışması
+
+- Anlatı Çalışması
+
+---
+## Etnografik Araştırma
+
+- **Doğrudan** gözlemlemek ve bu gözlemlere dayanarak betimleme yapmak,
+Gözlem, görüşme
+
+- Eğitimde araştırma yöntemleri dersi ???
+
+---
+## Tarihi Araştırma
+
+- Geçmişte ne oldu?,
+
+- **Dönemin dokümanlarının** okunması ve o zamanlarda yaşamış **kişilerle görüşmeler** yapılması,
+Doğruluğun sağlanması önemli bir sorun
+
+---
+## Eylem Araştırması
+
+- Belirli bir durumun **koşullarını değiştirmeye** yarayacak bilgiyi elde etmek amaçlanır,
+
+- Deneklerin çalışmaya **aktif** bir şekilde katılmalarına önem verilir ve **katılımcılar/taraflar** olarak adlandırılırlar. 
+
+- Genellemelere en az önem veren araştırmadır. 
+
+---
+## Eylem Araştırması
 
 
-- Veri elde etmek için çeşitli araçlar kullanma
-
-- Bilgi veren kişinin bir şeyle ilgili
-tanımlamalarını, bilgi veren başka bir kişinin aynı şeyle ilgili tanımlamaları ile karşılaştırarak kontrol etme
-
-- Anlamayı öğrenme ve uygun olduğunda, çalışma yapılan grubun kelime dağarcığıyla konuşma
-- Sorulan soruları yazma
-
-- Gözlem ve görüşme yaparken kişisel düşünceleri kaydetme
-
-- Çalışmada yer alan bir ya da daha fazla katılımcıdan araştırma raporunun doğruluğunu incelemesini isteme
+- Sınıfındaki öğrencilerin bilimsel süreç becerilerinin yeterli düzeyde gelişmediğini gözlemlemek isteyen bir öğretmenin bu soruna çözüm olarak kullanabileceği en uygun yöntemi bulması!!
 
 
 ---
-## Gözlem ve Görüşmede Geçerlik ve Güvenirlik
+## Olgubilim Çalışmaları
 
+- Olgulara odaklanılarak **yaşantıları** ve **anlamları** ortaya çıkarmayı amaçlar,
 
-- Raporu incelemek ve değerlendirmek için çalışmanın dışında bir bireyi amla
+- Olguyu yaşayan, onu dışa vurabilecek veya yansıtabilecek bireyler/gruplar,
 
-- Mümkün ve uygun olduğunda düşünce kaynaklarını belgeleme
-
-- Sonuçların/çıkarımların dayaak noktalarını belgeleme
-
-- Soruların hangi bağlamda sorulduğunu ve gözlemlenen durumları tanımlama
-
-- Mümkün ve uygun olduğunda ses ve video kayıtlarından yararlanma
-
-- Bireylerle bir kereden fazla görüşme yapma
-Konuya ilişkin ortamı ya da durumu bir süre gözlemleme (Büyüköztürk vd., 2020).
+- **Kesin** ve **genellenebilir** sonuçlar elde edilemeyebilir,
 
 ---
-## Kaynaklar
+## Olgubilim Çalışmaları
 
-Aybek, E. C. (2019). Verilerin Çevrimiçi Toplanması, Saklanması ve Etik. K. Yılmaz ve R. S. Arık (Edt.) *Bilim ve Araştırma Etiği* içinde (2-11). Ankara: Pegema Yayıncılık. 
+- Olgubilim Çalışmaları
+Kız öğrencilerin düşük okullaşma oranı - Olgu
+	
+	- Coğrafik bölge,
+	- Sosyo-ekonomik durum,
+	- Terk edilen sınıf düzeyi, 	
+	- Başarı durumu 
+	
+---
+## Olgubilim Çalışmaları
 
+- Olgubilim Çalışmaları
+
+Kız öğrencilerin düşük okullaşma oranı 
+
+- Olgu
+	
+- Başarılı öğrenciler neden okulu terk eder?
+
+- İlköğretim beşinci sınıftan sonra terk etme oranı 	neden artar?
+
+- Aile bu konuda ne düşünüyor?
+
+---
+## Kuram Oluşturma Çalışmaları
+
+
+- Sistematik olarak verilerin toplanması ve analiz edilmesi sonucu bir kuram geliştirme çalışmasıdır,
+
+- Süreçte toplanan veriler analiz edilir, ortaya çıkan kavramlar, olgular ve süreçler daha sonraki veri topplama aşamasına dahil edilir. 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+a. Bir olayı meydana getiren ayrıntıları tanımlamak ve görmek,
+
+b. Bir olaya ilişkin olası açıklamaları geliştirmek,
+
+c. Bir olayı değerlendirmek amacıyla kullanılır (Gall, Borg ve Gall, 1996; akt: Büyüközütrk vd. 2020). 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+Okul müdürünün, Okul Aile Birliğinin çalışmaları sırasında yaşadıkları sorunları tespit ederek bu birliğin çalışmalarının etkililiğini arttırmak istemesi. 
+
+---
+## Anlatı Çalışması
+
+- **Yaşanmış hikayeler** aracılığıyla insanarın bir konu ya da duruma ilişkin deneyimleri incelenir,
+
+- Otobiyografi, biyografi, 
+
+- Deneyimler **yazılı ya da sözlü** olarak **hikaye edilerek** toplanır.  
+
+---
+## Düzeylerine Göre Araştırma Türleri
+
+---
+## Yararlanılan Kaynak
 Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Ankara: Pegema Yayıncılık. 
-
-Frankel, J. R.; Wallen, N. E. &  Hyun, H. H. (2012). How to Design and Evaluate Research in Education (8th Edition). New York: McGraw Hill International.
-
-Ocak, G. (2019). Bilimsel Araştırmalarda Kullanılan Veri Toplama Yolları. G. Ocak (Edt.), Eğitimde *Bilimsel Araştırma Yöntemleri* içinde (2-61). Ankara: Pegema Yayıncılık. 
 

@@ -159,8 +159,20 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **ODEV-IV (++) Çevirim içi Anket Hazırlama**
 
 
+## `r advdate(mon, 10)`: [Nicel Araştırmalar I](sunum/10.html)
 
-## `r advdate(mon, 10)`: Verilerin Analizi
+-   İç geçerlik - Dış Geçerlik
+-   Tarama Araştırması
+-   Korelasyon Araştırması
+-   Nedensel Araştırma
+
+## `r advdate(mon, 11)`: Nicel Araştırmalar II
+
+-   Deneysel Araştırmalar ve Türleri
+
+-   **ODEV-VI (++++) Nicel Araştırma İnceleme Ödevi**
+
+## `r advdate(mon, 12)`: Verilerin Analizi
 
 -   Parametre Nedir?
 -   İstatistik Nedir?
@@ -171,18 +183,6 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Korelasyon Frekans Tablosu ve Grafikler
 -   **ODEV-V (+) Uygulanmış Bir Anket Analizi**
 
-## `r advdate(mon, 11)`: Nicel Araştırmalar I
-
--   İç geçerlik - Dış Geçerlik
--   Tarama Araştırması
--   Korelasyon Araştırması
--   Nedensel Araştırma
-
-## `r advdate(mon, 12)`: Nicel Araştırmalar II
-
--   Deneysel Araştırmalar ve Türleri
-
--   **ODEV-VI (++++) Nicel Araştırma İnceleme Ödevi**
 
 ## `r advdate(mon, 13)`: Nitel Araştırmalar I
 
