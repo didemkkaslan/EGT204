@@ -51,3 +51,169 @@ style_duo_accent(
 -   Çevirim için veri toplama araçları
 -   **ODEV-III (++) Çevirim içi Anket Hazırlama**
 
+
+
+---
+## Nedensel Karşılaştırma  Araştırması
+
+- İnsan grupları arasındaki **farklılıkların** nedenlerini ve sonuçlarını koşullar ve katılımcılar üzerinde herhangi bir müdahale olmaksızın belirlemeyi amaçlar, 
+
+- Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
+
+- **EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?**
+
+
+---
+## Deneysel Araştırma
+
+
+- Bilimsel yöntemler arasında **en kesin sonuçların** elde edildiği araştırma türüdür. 
+
+- **Karşılaştırılabilir** işlemler uygulanır ve bu işlemlerin etkileri incelenir. 
+
+**EGT204-04 şubesindeki öğrencilerin yarısına geleneksel uygulama, diğer yarısına ise ters yüz öğrenme yöntemi uygulanırsa dönem sonundaki başarı puanları arasında anlamlı bir farklılık olur mu?**
+
+
+---
+## Tek Denekli Araştırma
+
+- Tek bir bireyin ( az sayıda oluşan bir grubun) bir süre yoğun bir şekilde incelenmesini ve üzerinde çalışmasını içerir. 
+ 
+- Diğer bireylerden belirgin farklılıklara sahip bireyler üzerinde çalışılır. 
+
+---
+## Tasarım ve Geliştirme Araştırması
+
+- Eğitim bilimlerinde özellikle **eğitim teknolojisi** alanı,
+
+- Bilimsel sonuç ve önerilere dayalı olarak **yeni çözüm ve ürünlerin** gelişmesi,
+
+- Özellikle **proje** çalışmaları için önerilir,
+
+- Nitel, nicel ya da karma veri toplama yöntemleri
+
+
+---
+## Meta Analiz
+
+- **Belirli bir amaca/konuya** yönelik yapılan araştırmaları birlikte inceleyip bir **senteze** ulaşılması amaçlanır,
+
+
+---
+## Nitel Araştırmalar
+
+- Etnografik Araştırma
+
+- Tarihi Araştırma
+
+- Eylem Araştırması
+
+- Olgubilim Çalışmaları
+
+- Kuram Oluşturma Çalışmaları
+
+- Durum Çalışması
+
+- Anlatı Çalışması
+
+---
+## Etnografik Araştırma
+
+- **Doğrudan** gözlemlemek ve bu gözlemlere dayanarak betimleme yapmak,
+Gözlem, görüşme
+
+- Eğitimde araştırma yöntemleri dersi ???
+
+---
+## Tarihi Araştırma
+
+- Geçmişte ne oldu?,
+
+- **Dönemin dokümanlarının** okunması ve o zamanlarda yaşamış **kişilerle görüşmeler** yapılması,
+Doğruluğun sağlanması önemli bir sorun
+
+---
+## Eylem Araştırması
+
+- Belirli bir durumun **koşullarını değiştirmeye** yarayacak bilgiyi elde etmek amaçlanır,
+
+- Deneklerin çalışmaya **aktif** bir şekilde katılmalarına önem verilir ve **katılımcılar/taraflar** olarak adlandırılırlar. 
+
+- Genellemelere en az önem veren araştırmadır. 
+
+---
+## Eylem Araştırması
+
+
+- Sınıfındaki öğrencilerin bilimsel süreç becerilerinin yeterli düzeyde gelişmediğini gözlemlemek isteyen bir öğretmenin bu soruna çözüm olarak kullanabileceği en uygun yöntemi bulması!!
+
+
+---
+## Olgubilim Çalışmaları
+
+- Olgulara odaklanılarak **yaşantıları** ve **anlamları** ortaya çıkarmayı amaçlar,
+
+- Olguyu yaşayan, onu dışa vurabilecek veya yansıtabilecek bireyler/gruplar,
+
+- **Kesin** ve **genellenebilir** sonuçlar elde edilemeyebilir,
+
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+Kız öğrencilerin düşük okullaşma oranı - Olgu
+	
+	- Coğrafik bölge,
+	- Sosyo-ekonomik durum,
+	- Terk edilen sınıf düzeyi, 	
+	- Başarı durumu 
+	
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+
+Kız öğrencilerin düşük okullaşma oranı 
+
+- Olgu
+	
+- Başarılı öğrenciler neden okulu terk eder?
+
+- İlköğretim beşinci sınıftan sonra terk etme oranı 	neden artar?
+
+- Aile bu konuda ne düşünüyor?
+
+---
+## Kuram Oluşturma Çalışmaları
+
+
+- Sistematik olarak verilerin toplanması ve analiz edilmesi sonucu bir kuram geliştirme çalışmasıdır,
+
+- Süreçte toplanan veriler analiz edilir, ortaya çıkan kavramlar, olgular ve süreçler daha sonraki veri topplama aşamasına dahil edilir. 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+a. Bir olayı meydana getiren ayrıntıları tanımlamak ve görmek,
+
+b. Bir olaya ilişkin olası açıklamaları geliştirmek,
+
+c. Bir olayı değerlendirmek amacıyla kullanılır (Gall, Borg ve Gall, 1996; akt: Büyüközütrk vd. 2020). 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+Okul müdürünün, Okul Aile Birliğinin çalışmaları sırasında yaşadıkları sorunları tespit ederek bu birliğin çalışmalarının etkililiğini arttırmak istemesi. 
+
+---
+## Anlatı Çalışması
+
+- **Yaşanmış hikayeler** aracılığıyla insanarın bir konu ya da duruma ilişkin deneyimleri incelenir,
+
+- Otobiyografi, biyografi, 
+
+- Deneyimler **yazılı ya da sözlü** olarak **hikaye edilerek** toplanır.  
+
+---
+## Düzeylerine Göre Araştırma Türleri
+
