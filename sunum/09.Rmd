@@ -175,8 +175,8 @@ knitr::include_graphics("img/gorusmeform01.png")
 
 | Yapılandırılmış Görüşme    | Yarı Yapılandırılmış Görüşme | Yapılandırılmamış Görüşme |
 |---|---|---|
-| Önceden hazırlanmış sıralı sorular vardır. Genellikle sunulan seçeneklerden birinin seçilmesi istenir. Görüşmeciyi kısıtlaması, temel dezavantajlarıdır. Nitel çalışmalarda önerilmez. | Sorular önceden tanımlıdır. Analizlerin kolaylığı, görüşülene kendini ifade etme imkanı gibi avantajları;  önemsiz konularda fazla zaman harcanması gibi dezavantajları bulunur. | Araştırmacıya konuyla ilgili soru sormada serbestlik sağlar. Sorular ve sıraları görüşme sürecinde gelişir. |
- 
+| Önceden hazırlanmış sıralı sorular vardır. Genellikle sunulan seçeneklerden birinin seçilmesi istenir.| Sorular önceden tanımlıdır. | Araştırmacıya konuyla ilgili soru sormada serbestlik sağlar.|
+|  Görüşmeciyi kısıtlaması, temel dezavantajlarıdır. Nitel çalışmalarda önerilmez. |  Analizlerin kolaylığı, görüşülene kendini ifade etme imkanı gibi avantajları;  önemsiz konularda fazla zaman harcanması gibi dezavantajları bulunur. | Sorular ve sıraları görüşme sürecinde gelişir. |
 ---
 ## Görüşmelerin sınıflandırılması…
 
