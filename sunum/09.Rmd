@@ -194,7 +194,7 @@ knitr::include_graphics("img/gorusmeform01.png")
 
 - Süreye karar vermek
 
-- Giriş ve kapanıları hazırlamak
+- Giriş ve kapanışları hazırlamak
 
 - Görüşme kayıtları için hazırlık yapmak
 
@@ -242,7 +242,7 @@ tanımlamalarını, bilgi veren başka bir kişinin aynı şeyle ilgili tanımla
 
 - Mümkün ve uygun olduğunda düşünce kaynaklarını belgeleme
 
-- Sonuçların/çıkarımların dayaak noktalarını belgeleme
+- Sonuçların/çıkarımların dayanak noktalarını belgeleme
 
 - Soruların hangi bağlamda sorulduğunu ve gözlemlenen durumları tanımlama
 

@@ -51,43 +51,48 @@ style_duo_accent(
 ---
 ## Araştırma deseni
 
-- Araştırmanın sorularını cevaplamak ya da hipotezlerini test etmek amacıyla araştırmacı tarafından geliştirilen bir plandır. 
+- **Araştırmanın sorularını cevaplamak ya da hipotezlerini test etmek amacıyla araştırmacı tarafından geliştirilen bir plandır. **
 
-- Ölçme koşullarını (müdahale, doğal akış, araştırmanın odağını…) tanımlar.
+- **Ölçme koşullarını** (müdahale, doğal akış, araştırmanın odağını…) tanımlar.
 
-- Olaylara nasıl bakıldığını (pozitivist, constructivist, pragmatist) ortaya koyar.
+- **Olaylara nasıl bakıldığını** (pozitivist, constructivist, pragmatist) ortaya koyar.
 
 ---
 ## Araştırmalarda iç ve dış geçerlik
 
-- Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, evrene genellenebilirlik derecesi dış geçerliktir.
+- Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.**
 
-- İç geçerlik, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır.
+- **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır.
 
-- İç geçerlik, bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.
+- İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.**
 
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
-.hand[İçerik...]
--   Araştırma Nedir?
+
 -   Temel ve Uygulamalı Araştırmaları
+
 -   Laboratuar ve Saha Araştırmaları
+
 -   Anlık ve Boylamsal Araştırmaları
+
 -   Kavramsal ve Ampirik Araştırmalar
+
 -   Deneysel ve Deneysel Olmayan Araştırmalar
 
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
-.hand[İçerik...]
 -   Nicel ve Nitel Araştırmalar
+
   -   Nicel Araştırmalar
       -   Tarama Araştırması
       -   Deneysel Araştırma
       -   Meta Analiz 
+      
   -   Nitel Araşatırma Desenleri
       -   İçerik Analizi
       -   Eylem Araştırması
       -   Durum Araştırması
+      
 -   Karma Yöntem Araştırmaları
 
 ---
@@ -108,9 +113,9 @@ style_duo_accent(
 
 - Farklı sınıflamalar bulunmaktadır (Büyüköztürk, Çakmak, Akgün, Karadeniz, & Demirel, 2008; Karasar, 2003; Şekercioğlu, 2011/2015)
 
-- Uygulama/Düzey açısından 
-    - Temel
-    - Uygulamalı
+- Uygulama/Düzey açısından
+  - Temel
+  - Uygulamalı
 - Amaç açısından 
     - Betimsel, 
     - İlişkisel
@@ -138,14 +143,6 @@ style_duo_accent(
 
 - Nedensel Karşılaştırma Araştırması
 
-- Deneysel Araştırma
-
-- Tek Denekli Araştırma
-
-- Tasarım ve Geliştirme Araştırması
-
-- Meta - Analiz
-
 ---
 .center[
 ## Tarama Araştırması
@@ -165,6 +162,11 @@ style_duo_accent(
   - Davranışlarının  belirlenmeye çalışıldığı araştırmalardır.
 
 ]
+<br>
+<br>
+<br>
+
+
 .center[
 - **EGT204-05 şubesindeki öğrencilerin en çok sevdikleri kitap türü nedir?**
 ]
@@ -172,7 +174,7 @@ style_duo_accent(
 ---
 ## Tarama Araştırması
 
-```{r echo=FALSE, fig.align='center',out.width="70%"}
+```{r echo=FALSE, fig.align='center',out.width="50%"}
 knitr::include_graphics("img/tarama.PNG")
 ```
 
@@ -181,21 +183,20 @@ knitr::include_graphics("img/tarama.PNG")
 
 - Tarama deseni, araştırma sonuçlarının genelleneceği büyük grup olarak tanımlanan hedef kitle (evren) üzerinde veya evreni temsilen seçilen örneklem üzerinde çalışılır. 
 
-- Verilerin toplanmasında temelde anket kullanılmakla birlikte testler, ölçekler, yapılandırılmış gözlem formları ve kontrol listelerinden de yararlanılır.
+- Verilerin toplanmasında temelde **anket kullanılmakla birlikte testler, ölçekler, yapılandırılmış gözlem formları ve kontrol listelerinden de yararlanılır.**
 
 
 ---
 ## Tarama araştırmalarının sınıflandırılması
 
 - Anlık inceleme
-  - Anlık
+    - Anlık
   
 - Zamana bağlı değişimin incelenmesi
   - **Kesitsel:** Örneklemin gelişimsel olarak bir bütünü tamamlayacak şekilde birbirini tümleyen kesitlerden seçilmesi ve  verilerin tüm gruplardan aynı zamanda bir defa da toplanması ve analizi.
   - **Boylamsal:** Aynı örneklem üzerinde zamana bağlı ölçümlerin alınması ve gelişimin analizi.
 
 - Geçmişe dönük inceleme
-
   - Katılımcıların geçmiş deneyimlerine dayalı olarak önceden yaşanmış olayların, geçmişin incelenmesi.
 
 ---
@@ -216,13 +217,13 @@ knitr::include_graphics("img/tarama.PNG")
 ---
 ## Tarama araştırmalarında dış ve iç geçerliliği etkileyen durumlar
 
-- Denek kaybı (anketi cevaplamama, eksik cevap), 
+- **Denek kaybı (anketi cevaplamama, eksik cevap), **
 
-- Verilerin toplandığı ortamın ve şartların katılımcıların samimi görüşlerini belirtmelerine olanak tanımaması, 
+- Verilerin toplandığı ortamın ve şartların katılımcıların **samimi görüşlerini belirtmelerine olanak tanımaması,** 
 
-- Veri toplayan kişinin tutumu (cevaplama davranışını etkileme)
+- Veri toplayan kişinin tutumu **(cevaplama davranışını etkileme)**
 
-- Cevaplanacak soru sayısının çok fazla olması, yönergenin anlaşılır olmaması gibi yapısal sorunlara bağlı cevaplama motivasyonunu düşmesi. 
+- Cevaplanacak soru sayısının **çok fazla olması, yönergenin anlaşılır olmaması gibi yapısal sorunlara bağlı cevaplama motivasyonunu düşmesi. **
 
 ---
 ## Korelasyonel Araştırması
@@ -238,30 +239,32 @@ knitr::include_graphics("img/tarama.PNG")
 ---
 ## Örnek korelasyonel araştırmalar…
 
-- Öğrencilerin öğrenme stratejilerini kullanma sıklığı, sosyal etkinliklerine katılma sıklığı ve başarıları arasındaki ilişkinin incelenmesi.
+- Öğrencilerin **öğrenme stratejilerini kullanma sıklığı, sosyal etkinliklerine katılma sıklığı ve başarıları arasındaki ilişkinin incelenmesi.**
 
-- Ailelerin okulun eğitsel etkinliklerine ilgisi ve öğretmenle iletişim değişkenleri,  çocukların performansları üzerindeki etkisinin incelenmesi.
+--
 
-- Liselerin yaşı, yönetici tutumları, bir öğretmene düşen öğrenci sayısı ve geçmişteki başarı durumu değişkenlerinin, liselerdeki suç oranını açıklama gücünün incelenmesi.
+- Ailelerin **okulun eğitsel etkinliklerine ilgisi ve öğretmenle iletişim değişkenleri,  çocukların performansları üzerindeki etkisinin incelenmesi.**
+
+--
+
+- **Liselerin yaşı, yönetici tutumları, bir öğretmene düşen öğrenci sayısı ve geçmişteki başarı durumu değişkenlerinin, liselerdeki suç oranını açıklama gücünün incelenmesi.**
 
 ---
 ## Korelasyonel araştırmaların  odağı
 
-- Karşılıklı ilişkileri anlama,
+- Karşılıklı **ilişkileri anlama,**
 
-- Bir veya daha çok bağımsız değişkene dayalı olarak bir bağımlı değişkenin , açıklanmaya (yordanmaya) çalışılması. 
+- Bir veya daha çok bağımsız değişkene dayalı olarak bir bağımlı değişkenin , **açıklanmaya (yordanmaya) çalışılması.** 
 
-- Bu tür araştırmalarda, sonuçlar nedensellik bağlamında yorumlanamaz.
+- Bu tür araştırmalarda, **sonuçlar nedensellik bağlamında yorumlanamaz.**
 
 ---
 ## Korelasyonel araştırmaların türleri
 - **Keşfedici korelasyonel** araştırmalar
-  - Değişkenler arasındaki karşılıklı ilişkiler belirlenmeye çalışılır.
+    - Değişkenler arasındaki karşılıklı ilişkiler belirlenmeye çalışılır.
 
 - **Yordayıcı korelasyonel** araştırmalar
-
   - Değişkenler arası ilişkinin belirlenip bir veya daha fazla değişkenin bilinen değerinden diğer bir değişkenin bilinmeyen bir değeri belirlenmeye çalışılır.
-  
   - Burada, gerçekte, oluşturulan matematiksel bir model (Y=bx+a) vardır ve o test edilir. 
 
   - Sadece **doğrudan etkilere** ve/veya **dolaylı etkilere** dayalı olmak üzere iki türü vardır.
