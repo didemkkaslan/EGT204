@@ -164,13 +164,21 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   İç geçerlik - Dış Geçerlik
 -   Tarama Araştırması
 -   Korelasyon Araştırması
+
+
+## `r advdate(mon, 11)`: [Nicel Araştırmalar II](sunum/11.html)
+
 -   Nedensel Araştırma
-
-## `r advdate(mon, 11)`: Nicel Araştırmalar II
-
 -   Deneysel Araştırmalar ve Türleri
 
--   **ODEV-VI (++++) Nicel Araştırma İnceleme Ödevi**
+## `r advdate(mon, 13)`: [Nitel Araştırmalar I](sunum/ARTEK-12.ppt)
+
+-   Nicel ve Nitel Araştırma Farkları
+-   Nitel Araşatırma Aşamaları
+-   Karma Desenler
+-   İçerik Analizi
+-   Eylem Araştırması
+-   Durum Araştırması
 
 ## `r advdate(mon, 12)`: Verilerin Analizi
 
@@ -184,17 +192,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   **ODEV-V (+) Uygulanmış Bir Anket Analizi**
 
 
-## `r advdate(mon, 13)`: Nitel Araştırmalar I
 
--   Nicel ve Nitel Araştırma Farkları
--   Nitel Araşatırma Aşamaları
--   Karma Desenler
--   İçerik Analizi
-
-## `r advdate(mon, 14)`: Nitel Araştırmalar II
-
--   Eylem Araştırması
--   Durum Araştırması
 
 ## `r advdate(mon, 15)`: Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği
 
@@ -211,15 +209,3 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 
 
 
-
-2. [Bilimsel Araştırmaya Giriş](sunum/03.html) 
-3. [Probleminin Tanımlanması I](sunum/04.html) 
-4. [Problemin Tanımlanması II](sunum/05.html) 
-5. [Araştırmaların Sınıflandırılması](sunum/06.html) 
-6. [Örneklem Seçimi ve Örnekleme Yöntemi](sunum/08.html) 
-7. [Nicel Verilerin Toplanması ve Analizi](sunum/09.html) 
-8. [Nitel Verilerin Toplanması ve Analizi](sunum/10.html) 
-9. [Araştırmalarda İç Geçerlik ve Dış Geçerlik](sunum/11.html) 
-10. [Kaynak Yazımı](sunum/12.html) 
-11. [Bilimsel Araştırmalarda Etik](sunum/13.html) 
-12. [Araştırmaların Raporlaştırılması](sunum/14.html) 

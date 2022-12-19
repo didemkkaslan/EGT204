@@ -289,6 +289,7 @@ knitr::include_graphics("img/korarastirma.PNG")
 ```{r echo=FALSE, fig.align='center',out.width="70%"}
 knitr::include_graphics("img/korarastirma_2.PNG")
 ```
+
 ---
 ## Korelasyonel Çalışmalar_3
 

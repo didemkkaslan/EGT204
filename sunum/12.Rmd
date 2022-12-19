@@ -38,6 +38,121 @@ style_duo_accent(
 ```
 
 ---
-## Kaynak Yazımı .huge[`r emo::ji("stats")`]
+---
+## Nitel Araştırmalar
 
-.hand[İçerik...]
+- Etnografik Araştırma
+
+- Tarihi Araştırma
+
+- Eylem Araştırması
+
+- Olgubilim Çalışmaları
+
+- Kuram Oluşturma Çalışmaları
+
+- Durum Çalışması
+
+- Anlatı Çalışması
+
+---
+## Etnografik Araştırma
+
+- **Doğrudan** gözlemlemek ve bu gözlemlere dayanarak betimleme yapmak,
+Gözlem, görüşme
+
+- Eğitimde araştırma yöntemleri dersi ???
+
+---
+## Tarihi Araştırma
+
+- Geçmişte ne oldu?,
+
+- **Dönemin dokümanlarının** okunması ve o zamanlarda yaşamış **kişilerle görüşmeler** yapılması,
+Doğruluğun sağlanması önemli bir sorun
+
+---
+## Eylem Araştırması
+
+- Belirli bir durumun **koşullarını değiştirmeye** yarayacak bilgiyi elde etmek amaçlanır,
+
+- Deneklerin çalışmaya **aktif** bir şekilde katılmalarına önem verilir ve **katılımcılar/taraflar** olarak adlandırılırlar. 
+
+- Genellemelere en az önem veren araştırmadır. 
+
+---
+## Eylem Araştırması
+
+
+- Sınıfındaki öğrencilerin bilimsel süreç becerilerinin yeterli düzeyde gelişmediğini gözlemlemek isteyen bir öğretmenin bu soruna çözüm olarak kullanabileceği en uygun yöntemi bulması!!
+
+
+---
+## Olgubilim Çalışmaları
+
+- Olgulara odaklanılarak **yaşantıları** ve **anlamları** ortaya çıkarmayı amaçlar,
+
+- Olguyu yaşayan, onu dışa vurabilecek veya yansıtabilecek bireyler/gruplar,
+
+- **Kesin** ve **genellenebilir** sonuçlar elde edilemeyebilir,
+
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+Kız öğrencilerin düşük okullaşma oranı - Olgu
+	
+	- Coğrafik bölge,
+	- Sosyo-ekonomik durum,
+	- Terk edilen sınıf düzeyi, 	
+	- Başarı durumu 
+	
+---
+## Olgubilim Çalışmaları
+
+- Olgubilim Çalışmaları
+
+Kız öğrencilerin düşük okullaşma oranı 
+
+- Olgu
+	
+- Başarılı öğrenciler neden okulu terk eder?
+
+- İlköğretim beşinci sınıftan sonra terk etme oranı 	neden artar?
+
+- Aile bu konuda ne düşünüyor?
+
+---
+## Kuram Oluşturma Çalışmaları
+
+
+- Sistematik olarak verilerin toplanması ve analiz edilmesi sonucu bir kuram geliştirme çalışmasıdır,
+
+- Süreçte toplanan veriler analiz edilir, ortaya çıkan kavramlar, olgular ve süreçler daha sonraki veri topplama aşamasına dahil edilir. 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+a. Bir olayı meydana getiren ayrıntıları tanımlamak ve görmek,
+
+b. Bir olaya ilişkin olası açıklamaları geliştirmek,
+
+c. Bir olayı değerlendirmek amacıyla kullanılır (Gall, Borg ve Gall, 1996; akt: Büyüközütrk vd. 2020). 
+
+---
+## Durum (Örnek Olay) Çalışması
+
+Okul müdürünün, Okul Aile Birliğinin çalışmaları sırasında yaşadıkları sorunları tespit ederek bu birliğin çalışmalarının etkililiğini arttırmak istemesi. 
+
+---
+## Anlatı Çalışması
+
+- **Yaşanmış hikayeler** aracılığıyla insanarın bir konu ya da duruma ilişkin deneyimleri incelenir,
+
+- Otobiyografi, biyografi, 
+
+- Deneyimler **yazılı ya da sözlü** olarak **hikaye edilerek** toplanır.  
+
+---
+## Düzeylerine Göre Araştırma Türleri
+

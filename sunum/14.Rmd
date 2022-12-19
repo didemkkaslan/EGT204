@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Araştırmaların Raporlaştırılması"

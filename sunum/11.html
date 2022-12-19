@@ -1,41 +1,49 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>💪 EGİTİMDE ARAŞTIRMA YÖNTEMLERİ</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="    👩‍🏫 Dr. Kübra ATALAY KABASAKAL   Hacettepe Üniversitesi" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/font-awesome/css/all.css" rel="stylesheet" />
+    <link href="libs/font-awesome/css/v4-shims.css" rel="stylesheet" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="slides-style.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+.title[
+# 💪 EGİTİMDE ARAŞTIRMA YÖNTEMLERİ
+]
+.subtitle[
+## <br> 📉 Nicel Araştırmalar
+]
+.author[
+### <br> <br> 👩‍🏫 Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi
+]
+.date[
+### <br> <br> <br> <br>📧 <a href="mailto:katalay@hacettepe.edu.tr" class="email">katalay@hacettepe.edu.tr</a>
+]
+
 ---
-title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
-subtitle: " <br> `r emo::ji('graph')` Nicel Araştırmalar"
-author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: " <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    css: ["xaringan-themer.css", "slides-style.css"]
-    nature:
-      highlightStyle: solarized-light
-      highlightLines: true
-      countIncrementalSlides: false
-      ratio: "16:9"
-      slideNumberFormat: |
-        <div class="progress-bar-container">
-          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
-          </div>
-        </div>
+
+
+
+
+
+layout: true
+  
+&lt;div class="my-footer"&gt;
+&lt;span&gt;
+ - Dr. Kübra Atalay Kabasakal
+&lt;/span&gt;
+&lt;/div&gt; 
+
 ---
 
-```{r child = "../setup.Rmd"}
-```
 
-```{r set-theme, include=FALSE}
-library(emoji)
-library(xaringanthemer)
-library(dplyr)
-
-style_duo_accent(
-  primary_color      = "#0F4C81", # pantone classic blue
-  secondary_color    = "#B6CADA", # pantone baby blue
-  header_font_google = google_font("Raleway"),
-  text_font_google   = google_font("Raleway", "300", "300i"),
-  code_font_google   = google_font("Source Code Pro"),
-  text_font_size     = "30px"
-)
-```
 
 ---
 ## Araştırmalarda ....
@@ -252,7 +260,7 @@ Deneysel modelleri kullanmak için iki önemli sebep vardır:
 
 | **Grup** | **Öntest**           | **İşlem**                     | **Sontest**          |
 |---|---|---|---|
-| $G$      | $O_{1}$              | $X$                           | $O_{2}$              |
+| `\(G\)`      | `\(O_{1}\)`              | `\(X\)`                           | `\(O_{2}\)`              |
 |          | Akademik Uyum Ölçeği | 10 Haftalık Grupla Danışma    | Akademik Uyum Ölçeği |
 |          |                      |                               |                      |
 |          | (Bağımlı değ.)       | (Müdahale)                    | (Bağımlı değ.)       |
@@ -268,10 +276,10 @@ Deneysel modelleri kullanmak için iki önemli sebep vardır:
 
 | **Grup**  | **İşlem**             | **Sontest**                      |
 |---|---|---|
-| $D$       | $X$                   | $O_{1}$                          |
+| `\(D\)`       | `\(X\)`                   | `\(O_{1}\)`                          |
 |           |                       |                                  |
 | (Deney)   | (Performans görevi)   | (Problem çözme becerileri testi) |
-| $K$       | (Geleneksel uygulama) | $O_{2}$                         |
+| `\(K\)`       | (Geleneksel uygulama) | `\(O_{2}\)`                         |
 |           |                       |                                  |
 | (Kontrol) |                       | (Problem çözme becerileri testi) |
 
@@ -287,10 +295,10 @@ Seçkisiz atamanın olmaması ve öntest uygulanmaması nedeniyle gözlenen fark
 
 | **Grup**  | **Öntest**                       | **İşlem**             | **Sontest**                      |
 |---|---|---|---|
-| $D$       | $O_{1}$                          | $X$                   | $O_{3}$                          |
+| `\(D\)`       | `\(O_{1}\)`                          | `\(X\)`                   | `\(O_{3}\)`                          |
 |           |                                  |                       |                                  |
 | (Deney)   | (Problem çözme becerileri testi) | (Performans görevi)   | (Problem çözme becerileri testi) |
-| $K$       | $O_{2}$                          |            | $O_{4}$                         |
+| `\(K\)`       | `\(O_{2}\)`                          |            | `\(O_{4}\)`                         |
 |           |                                  |                       |                                  |
 | (Kontrol) | (Problem çözme becerileri testi) |     (Geleneksel uygulama)                  | (Problem çözme becerileri testi) |
 
@@ -315,8 +323,8 @@ Deneklerin seçkisiz atanmamasından dolayı modelin iç ve dış geçerlik aç�
 
 | **Grup** | **Öntest** | **İşlem** | **Sontest** |
 |---|---|---|---|
-|   $D$    |  $O_{1}$   |    $X$    |   $O_{3}$   |
-|   $K$    |  $O_{2}$  |           |  $O_{4}$   |
+|   `\(D\)`    |  `\(O_{1}\)`   |    `\(X\)`    |   `\(O_{3}\)`   |
+|   `\(K\)`    |  `\(O_{2}\)`  |           |  `\(O_{4}\)`   |
 
 : Öntest-sontest eşleştirilmiş kontrol gruplu model
 
@@ -324,8 +332,8 @@ Deneklerin seçkisiz atanmamasından dolayı modelin iç ve dış geçerlik aç�
 
 | **Grup** | **İşlem** | **Sontest** |
 |---|---|---|
-|   $D$    |    $X$    |   $O_{1}$   |
-|   $K$    |           |  $O_{2}$   |
+|   `\(D\)`    |    `\(X\)`    |   `\(O_{1}\)`   |
+|   `\(K\)`    |           |  `\(O_{2}\)`   |
 
 : Sontest eşleştirilmiş kontrol gruplu model
 
@@ -337,7 +345,7 @@ belli değişkenler üzerinden eşleştirilmeye çalışılır. Eşleştirilen b
 
 | **Grup** | **İşlem Öncesi Ölçmeler**       | **İşlem** | **İşlem Sonrası Ölçümler**      |
 |----------|---------------------------------|-----------|---------------------------------|
-| G        | $O_{1}$ $O_{2}$ $O_{3}$ $O_{4}$ | X         | $O_{5}$ $O_{6}$ $O_{7}$ $O_{8}$ |
+| G        | `\(O_{1}\)` `\(O_{2}\)` `\(O_{3}\)` `\(O_{4}\)` | X         | `\(O_{5}\)` `\(O_{6}\)` `\(O_{7}\)` `\(O_{8}\)` |
 
 
 - Bu modelde tek bir grup üzerinde X işleminin etkisini test etmek için, 
@@ -357,8 +365,8 @@ ve sonraki ölçümlerde kararlılık göstermesi, işlemin bağımlı değişke
 
 | **Grup** | **Öntest** | **İşlem** | **Sontest** |
 |---|---|---|---|
-|   $D$    |  $O_{1}$   |    $X$    |   $O_{3}$   |
-|   $K$    |  $O_{2}$  |           |  $O_{4}$   |
+|   `\(D\)`    |  `\(O_{1}\)`   |    `\(X\)`    |   `\(O_{3}\)`   |
+|   `\(K\)`    |  `\(O_{2}\)`  |           |  `\(O_{4}\)`   |
 
 
 
@@ -377,8 +385,8 @@ ve sonraki ölçümlerde kararlılık göstermesi, işlemin bağımlı değişke
 
 | **Grup** | **İşlem** | **Sontest** |
 |:--------:|:---------:|:-----------:|
-|   $D$    |    $X$    |   $O_{1}$   |
-|   $K$    |           |  $O_{2}$   |
+|   `\(D\)`    |    `\(X\)`    |   `\(O_{1}\)`   |
+|   `\(K\)`    |           |  `\(O_{2}\)`   |
 
 
 - Bu testin öntest-sontest kontrol gruplu seçkisiz modelden tek farkı, uygulama öncesinde bağımlı değişkene ait ölçümlerin elde edilmemesi yani öntestin yapılmamasıdır.
@@ -479,3 +487,141 @@ ve sonraki ölçümlerde kararlılık göstermesi, işlemin bağımlı değişke
 
 
 
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "solarized-light",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9",
+"slideNumberFormat": "<div class=\"progress-bar-container\">\n  <div class=\"progress-bar\" style=\"width: calc(%current% / %total% * 100%);\">\n  </div>\n</div>"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
