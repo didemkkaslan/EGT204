@@ -171,7 +171,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Nedensel Araştırma
 -   Deneysel Araştırmalar ve Türleri
 
-## `r advdate(mon, 13)`: [Nitel Araştırmalar I](sunum/ARTEK-12.ppt)
+## `r advdate(mon, 13)`: [Nitel Araştırmalar I](sunum/12.html)
 
 -   Nicel ve Nitel Araştırma Farkları
 -   Nitel Araşatırma Aşamaları
@@ -180,7 +180,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Eylem Araştırması
 -   Durum Araştırması
 
-## `r advdate(mon, 12)`: Verilerin Analizi
+## `r advdate(mon, 12)`: [Verilerin Analizi](sunum/verilerin analizi.pdf)
 
 -   Parametre Nedir?
 -   İstatistik Nedir?
