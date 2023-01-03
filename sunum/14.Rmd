@@ -40,50 +40,163 @@ style_duo_accent(
 ---
 ## Araştırmaların Raporlaştırılması .huge[`r emo::ji("stats")`]
 
-.hand[İçerik...]
-||||||| 544e880
-=======
----
-title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
-subtitle: " <br> `r emo::ji('graph')` Araştırmaların Raporlaştırılması"
-author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "2021-2022 GUZ-Hafta 8 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    css: ["xaringan-themer.css", "slides-style.css"]
-    nature:
-      highlightStyle: solarized-light
-      highlightLines: true
-      countIncrementalSlides: false
-      ratio: "16:9"
-      slideNumberFormat: |
-        <div class="progress-bar-container">
-          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
-          </div>
-        </div>
----
-
-```{r child = "../setup.Rmd"}
-```
-
-```{r set-theme, include=FALSE}
-library(emoji)
-library(xaringanthemer)
-library(dplyr)
-
-style_duo_accent(
-  primary_color      = "#0F4C81", # pantone classic blue
-  secondary_color    = "#B6CADA", # pantone baby blue
-  header_font_google = google_font("Raleway"),
-  text_font_google   = google_font("Raleway", "300", "300i"),
-  code_font_google   = google_font("Source Code Pro"),
-  text_font_size     = "30px"
-)
-```
 
 ---
-## Araştırmaların Raporlaştırılması .huge[`r emo::ji("stats")`]
+## Bilimsel Bir Yazının Bölümleri
 
-.hand[İçerik...]
->>>>>>> 7a15615e94d21b421f1c327f1441692e90e2d635
+|   |   |
+|---|---|
+| **Başlık Sayfası** | -Başlık, üst başlık, yazar adı ve kurum bilgisi   |
+| **Özet**  | - Bu bölüm, makalenin kısa, ayrıntıl ve çok yönlü bir özetidir.
+| **Giriş** | - Bu kısımda problem tanıtılır, literatür tartışılır.
+|           | - Problem, açık ve anlaşılır şekilde ortaya konmalıdır. 
+|           | -Problemin çözümündeki yaklaşım ortaya konulmalıdır. 
+|           | - Değişkenler tanımlanır ve araştırmanın hipotezleri 
+|           |ve/veya soruları verilir. 
+
+
+---
+## Bilimsel Bir Yazının Bölümleri
+
+|   |   |
+|---|---|
+| **Yöntem**       | -Yöntem bölümü araştırmanın nasıl yürütüldüğüne ilişkin detayları tanıtır.
+|  | - Desen, müdahale, veri toplama süreci, çalışma grubu vb.  tanıtılır.| 
+| **Bulgular** | - Bulgular bölümünde, toplanan verilerin analizine ilişkin istatistiksel sonuçlar özetlenir. |
+| **Tartışma** | - Bu bölümde özellikle çalışmanın hipotezleri ile ilgili değerlendirme ve yorumlar yapılır. 
+|    |- Bu bulguların kuramsal önemi ve sonuçların geçerliliği vurgulanır.  |
+---
+
+## Bilimsel Bir Yazının Bölümleri
+
+|   |   |
+|---|---|
+| **Kaynaklar** | - Çalışmada kullanılan kaynakların tamamı kaynaklar listesinde yer almalı ve kaynaklar listesindeki kaynaklara da metin içinde mutlaka atıf yapılmalıdır. |
+| **Ekler** | - Ekler, bir materyalin çalışmanın gövde kısmında detaylı olarak verilmesinin uygun olmayacağı ve dikkati dağıtacağı durumlarda kullanılır.|
+
+
+---
+## Örnek bir makale;
+- Başlık -  Kim, ne zaman, ne yapmış?
+
+![](img/Başlık.PNG)
+
+---
+## Örnek bir makale;
+- Başlık -  Kim, ne zaman, ne yapmış?
+- Dipnot
+
+![](img/dipnot.PNG)
+
+
+---
+## Örnek bir makale;
+- Özet-  Bu makale ne hakkındaymış, neler yapılmış?
+
+![](img/OZET1.PNG)
+
+---
+## Örnek bir makale;
+-  Giriş - Bu araştırma niçin yapılmış?
+
+![](img/GIRIS1.PNG)
+
+
+---
+## Örnek bir makale;
+-  Giriş - Bu araştırma niçin yapılmış?
+
+![](img/GIRIS2.PNG)
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM1.PNG)
+
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM2.PNG)
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM3.PNG)
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM4.PNG)
+
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM5.PNG)
+
+---
+## Örnek bir makale;
+- Yöntem- Bu araştırma nasıl yapılmış?
+
+![](img/YONTEM6.PNG)
+
+---
+## Örnek bir makale;
+- Bulgular ve Yorumlar - Bu araştırma sonucunda ne bulunmuş, bunlar nasıl algılanabilir
+veya yorumlanabilir?
+
+
+![](img/BULGULAR1.PNG)
+
+---
+## Örnek bir makale;
+- Sonuç ve Öneriler - Bu araştırma sonucunda neler bulunmuş, bu sonuçlara göre neler
+yapılmalıdır?
+
+![](img/SONUC.PNG)
+
+
+---
+## Örnek bir makale;
+- Sonuç ve Öneriler - Bu araştırma sonucunda neler bulunmuş, bu sonuçlara göre neler
+yapılmalıdır?
+
+![](img/TARTISMA.PNG)
+
+---
+## Örnek bir makale;
+- Sonuç ve Öneriler - Bu araştırma sonucunda neler bulunmuş, bu sonuçlara göre neler
+yapılmalıdır?
+
+![](img/ONERILER.PNG)
+
+---
+## Örnek bir makale;
+- Kaynakça
+
+![](img/KAYNAKCA.PNG)
+
+---
+## Genel Yazım Kuralları
+
+
+- `r emo::ji("link")` [Türk Eğitim Derneği (TED) tarafından yayınlanan Eğitim ve Bilim dergisi yazım kuralları](http://egitimvebilim.ted.org.tr/index.php/EB/pages/view/guideForAuthors#writingRules)
+
+
+ 
+- `r emo::ji("link")` [APA7 - Akademik Yayın İlkeleri](http://acikders.hacettepe.edu.tr/dersler/edebiyat_fakultesi/APA/APA.html)
+
+- `r emo::ji("link")` [İncelenen Makale](http://egitimvebilim.ted.org.tr/index.php/EB/article/view/11354)
+
+Ünver, G., Arslan Cansever, B., & Çavaş, P. (2022). İlkokul öğrencilerinin öz düzenleme becerilerine ilişkin algıları ile öz düzenlemeyi destekleyen ve engelleyen faktörler. **Eğitim ve Bilim, 47**(212). doi:http://dx.doi.org/10.15390/EB.2022.11354
+
+---
+
+
+##  .large[.hand[teşekürler]]

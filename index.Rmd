@@ -180,7 +180,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Eylem Araştırması
 -   Durum Araştırması
 
-## `r advdate(mon, 12)`: [Verilerin Analizi](sunum/verilerin analizi.pdf)
+## `r advdate(mon, 12)`: [Verilerin Analizi](sunum/13.html)
 
 -   Parametre Nedir?
 -   İstatistik Nedir?
@@ -194,7 +194,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 
 
 
-## `r advdate(mon, 15)`: Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği
+## `r advdate(mon, 15)`: [Araştırma Raporu Hazırlama, Araştırma ve Yayın Etiği](sunum/14.html)
 
 -   Rapor hazırlamada dikkat edilecek hususlar
 -   Araştırma türlerine göre rapor örnekleri
