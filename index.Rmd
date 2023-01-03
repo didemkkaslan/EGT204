@@ -1,7 +1,7 @@
 ---
 title: "EGT204: EĞİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: "Ders Iceriği"
-date: "Güz - 2022"
+date: "Bahar - 2023"
 output:
   html_document:
     toc: true
@@ -31,7 +31,7 @@ advdate <- function(obj, adv) {
  tmp <- paste("Hafta ",zadv,sep='',", ", tmon)
  return(tmp)
 }
-mon <- ymd(20221003)
+mon <- ymd(20230301)
 
 ```
 
@@ -39,8 +39,8 @@ mon <- ymd(20221003)
 
 |                                        |                                |
 |----------------------------------------|--------------------------------|
-| **email:** kkatalay\@gmail.com         | **Sinif:** B10 302             |
-| **Ofis saatleri:** Cuma 10:00-12:00    | **Saat:**  11:00-13:00         |
+| **email:** kkatalay\@gmail.com         | **Sinif:** Zoom             |
+| **Ofis saatleri:** Cuma 10:00-12:00    | **Saat:**  08:40/10:30 - 12:30         |
 | **Ofis:** "Eğitim Bilimleri Enstitüsü" |                                |
 
 
@@ -66,9 +66,8 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 
 # Notlandırma
 
--   **25% Ara Sınav**
 
--   **25% Derse Katılım ve Ödevler**
+-   **50% Derse Katılım ve Ödevler**
 
     Derslere katılımınız zoom kayıtlarından alınabilmektedir. Ayrıca derste online olan ancak iletisim kurulamayan kisiler derste yok sayılacaktır.
     
