@@ -71,7 +71,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 
     Derslere katılımınız zoom kayıtlarından alınabilmektedir. Ayrıca derste online olan ancak iletisim kurulamayan kisiler derste yok sayılacaktır.
     
-    Bu derste sizden 6 ödev yapmanız beklenmektedir. Ödev başlıkları "Ders Planı" icinde ilgili haftada yer almaktadır. Ödevler, genel başarı puanının %40'ını oluşturmaktadır. Ödev başlıklarında ödev ağırlıklarını görebilirsiniz. Ödevlerinizi moodle ilgili haftada bulacaksınız.
+    Bu derste değerlendirme haftalık yapılacak değerlendirmelerle sağlanacaktır.
 
 -   **50% Genel Sınav**
 
