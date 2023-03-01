@@ -94,18 +94,9 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 ```
 # Ders Planı
 
-## `r advdate(mon, 2)`:[Ölçmede Temel Kavramlar](sunum/02.html)
--   Ölçme Nedir?
--   Ölçüm Nedir?
--   Ölçek Nedir?
--   Ölçek Türleri
--   Ölçmede Hata
--   Ölçme Aracının Sahip Olması Gereken Özellikler
--   Korelasyon
--   **ODEV-I (+) Makale Okuma**
 
 
-## `r advdate(mon, 3)`:[Bilimsel Araştırma Temel Kavramlar](sunum/03.html)
+## `r advdate(mon, 2)`:[Bilimsel Araştırma Temel Kavramlar](sunum/03.html)
 
 -   Bilgi Nedir? Bilgi Edinme Yolları Nelerdir?
 -   Bilim Nedir?
@@ -119,7 +110,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Problem ve alt problemler
 -   Literatur Taraması
 
-## `r advdate(mon, 5)`: [Probleminin Tanımlanması II](sunum/05.html)
+## `r advdate(mon, 4)`: [Probleminin Tanımlanması II](sunum/05.html)
 
 -   Değişken nedir?
 -   Değişken Sınıflaması
@@ -129,6 +120,16 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Sayıltı ve Sınırlılık
 -   Tanımlar, Kısaltmalar
 -   **ODEV-II (+) Problem Durumu Belirleme**
+
+## `r advdate(mon, 5)`:[Ölçmede Temel Kavramlar](sunum/02.html)
+-   Ölçme Nedir?
+-   Ölçüm Nedir?
+-   Ölçek Nedir?
+-   Ölçek Türleri
+-   Ölçmede Hata
+-   Ölçme Aracının Sahip Olması Gereken Özellikler
+-   Korelasyon
+-   **ODEV-I (+) Makale Okuma**
 
 
 ## `r advdate(mon, 6)`: [Örnekleme Yöntemleri](sunum/06.html)
