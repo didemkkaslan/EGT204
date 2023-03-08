@@ -103,23 +103,21 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Bilimin Temel İşlevleri
 -   Bilimin Başlıca Özellikleri
 
-## `r advdate(mon, 3)`: [Probleminin Tanımlanması I](sunum/04.html)
+## `r advdate(mon, 3)`: Araştırma Problemin Tanımlanması 
 
--   Araştırma Problemin Tanımlanması
--   İyi bir araştırma probeliminin sahip olması gereken özellikler
--   Problem ve alt problemler
--   Literatur Taraması
+- [Probleminin Tanımlanması I](sunum/04.html)
+  -   İyi bir araştırma probeliminin sahip olması gereken özellikler
+  -   Problem ve alt problemler
+  -   Literatur Taraması
+- [Probleminin Tanımlanması II](sunum/05.html)
+  -   Değişken nedir?
+  -   Değişken Sınıflaması
+  -   Hipotez Nedir?
+  -   Hipotez Türleri
+  -   Araştırma Amacı ve Önemi
+  -   Sayıltı ve Sınırlılık
+  -   Tanımlar, Kısaltmalar
 
-## `r advdate(mon, 4)`: [Probleminin Tanımlanması II](sunum/05.html)
-
--   Değişken nedir?
--   Değişken Sınıflaması
--   Hipotez Nedir?
--   Hipotez Türleri
--   Araştırma Amacı ve Önemi
--   Sayıltı ve Sınırlılık
--   Tanımlar, Kısaltmalar
--   **ODEV-II (+) Problem Durumu Belirleme**
 
 ## `r advdate(mon, 5)`:[Ölçmede Temel Kavramlar](sunum/02.html)
 -   Ölçme Nedir?
