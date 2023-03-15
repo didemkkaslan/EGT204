@@ -127,7 +127,7 @@ Dersler "Ders Planı" başlığı altındaki sıralamaya göre işlenecektir. Be
 -   Ölçmede Hata
 -   Ölçme Aracının Sahip Olması Gereken Özellikler
 -   Korelasyon
--   **ODEV-I (+) Makale Okuma**
+-   **ODEV-I (+) Literatür Tarama**
 
 
 ## `r advdate(mon, 6)`: [Örnekleme Yöntemleri](sunum/06.html)
