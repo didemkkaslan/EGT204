@@ -2,7 +2,7 @@
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Ölçmede Temel Kavramlar"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "2022-2023 GUZ <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+date: "2023 BAHAR <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -825,19 +825,6 @@ koryuksekdeger <- round(cor(mtcars$disp, mtcars$dispnew ), 3)
 <!-- Gerçek sıfır, -->
 <!-- Kardeş sayısı, boy, ağırlık , -->
 <!-- Geormetrik ortalama,.... -->
-
----
-## Kahoot
-
-https://kahoot.it?pin=2638016&refer_method=link
-
----
-## Ders sonu
-
-https://www.menti.com/
-kod: 7643 2530
-
-[link](https://www.mentimeter.com/app/presentation/1e83c02fbaa89d70ba55f68b5224b604/d9e7e5d69ae3)
 
 
 ---
