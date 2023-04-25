@@ -12,13 +12,13 @@ jobs:
 
       - name: Build PDF
         run: |-
-          npm install -g pdf-puppeteer
+          npm install -g puppeteer-pdf-generator
           mkdir -p _output
           cd sunum
           echo; echo "Input Folder Listing"
           ls
           echo; echo "Generating PDF"
-          for f in *.html; do cat $f; echo; done | puppeteer-pdf --stylesheet "../styles.css" > ../_output/blue-paper.pdf
+          for f in *.html; do cat $f; echo; done | puppeteer-pdf-generator --stylesheet "../styles.css" > ../_output/blue-paper.pdf
           cd ../_output
           echo; echo "Output Folder Listing"
           ls
